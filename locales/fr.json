@@ -1,0 +1,95 @@
+{
+     "settings": {
+        "menu": "Paramètres",
+        "country": "Pays",
+        "currency": "Devise",
+        "matching": "Désolé, pas d'avis de rapprochement"
+    },
+    "subscription": {
+        "input": "Entrer votre Email",
+        "submit": "Soumettre",
+        "success": "Inscription Confirmée",
+        "close": "Réessayer"
+    },
+    "home": {
+        "title": "Shopping simplifi\u00e9",
+        "subtitle": "Nous avons ma\u00eetris\u00e9 la technologie",
+        "subtitle2": "pour que vous n'ayez pas \u00e0 le faire"
+    },
+    "menu": {
+        "buyers": "Acheteurs",
+        "affiliates": "Filiales",
+        "networks": "R\u00e9seaux",
+        "contact": "Contact"
+    },
+    "locales": {
+        "en": "Anglais",
+        "zh-CN": "Chinois",
+        "es": "Espagnol",
+        "fr": "Fran\u00e7ais",
+        "pt-BR": "Portugais",
+        "ru": "Russe",
+        "ar": "Arabe",
+        "ko": "Cor\u00e9en",
+        "it": "Italien",
+        "nl": "N\u00e9erlandais",
+        "fa": "Persan",
+        "sv": "Su\u00e9dois",
+        "no": "Norsk",
+        "da": "Danois",
+        "pa": "Punjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengali",
+        "sr": "Serbe"
+    },
+    "article": {
+        "contact": {
+            "h1": "Contactez-nous",
+            "p1": "Nous aimons les commentaires et vous serions reconnaissant d'avoir votre opinion, peu importe si vous utilisez, travaillez, adorez ou d\u00e9testez Fiasgo.",
+            "p2": "Si vous \u00eates un utilisateur, contactez-nous via {mail}",
+            "p3": "Si vous \u00eates une filiale ou qui fait partie d'un r\u00e9seau de filiales, contactez-nous \u00e0 {mail}"
+        },
+        "affiliates": {
+            "h1": "Filiales",
+            "p1": "Fiasgo travaille avec des filiales de partout dans le monde. Notre mission consiste \u00e0 rassembler le plus grand choix de produits \u00e9lectroniques grand public pour profiter aux clients en rendant leurs achats plus facile. Ils peuvent acheter avec plus de confiance et s'attendre \u00e0 de meilleurs r\u00e9sultats pour les produits qu'ils ach\u00e8tent, car leurs besoins ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s et correspondent aux sp\u00e9cifications techniques de ce qu'ils cherchent \u00e0 acheter.",
+            "p2": "En bref: Nous offrons un niveau de service \u00e0 la client\u00e8le et une compr\u00e9hension comparable \u00e0 celle du commerce traditionnel dont le commerce \u00e9lectronique est jusqu'alors d\u00e9pourvu.",
+            "p3": "Nous apportons le service \u00e0 la client\u00e8le dans le commerce \u00e9lectronique d'une mani\u00e8re innovante. En comprenant les besoins du consommateur, nous pouvons optimiser et acc\u00e9l\u00e9rer le processus par lequel un consommateur est converti du statut d'acheteur potentiel vers celui d'un client r\u00e9el. Gr\u00e2ce \u00e0 l'expertise et \u00e0 l'orientation de notre plate-forme, la confiance de l'achat du consommateur sera plus \u00e9lev\u00e9e, ce qui entra\u00eenera un taux de rendement plus bas et une satisfaction accrue de la client\u00e8le.",
+            "p4": "C'est gagnant-gagnant, tant pour le client que pour vous-m\u00eame et pour nous-m\u00eames.",
+            "h2": "Donn\u00e9es des filiales:",
+            "p5": "Nous sommes fiers d'avoir les donn\u00e9es les plus \u00e0 jour. Ce que nous n'obtenons pas de nos r\u00e9seaux de filiales, nous le r\u00e9unissons aupr\u00e8s des d\u00e9taillants eux-m\u00eames. Pour nous assurer que nous disposons des donn\u00e9es correctes en tout temps, nous explorons diff\u00e9rents sites internet afin d'assurer que l'information la plus correcte vous soit fournie concernant les produits, leurs prix, leurs images, etc. Nous faisons cela de mani\u00e8re rapide, simple et s\u00fbre. Nous ne conservons que les informations dont nous avons besoin pour optimiser la vente r\u00e9elle des produits.",
+            "p6": "Int\u00e9ress\u00e9s pour collaborer avec Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Shopping simplifi\u00e9",
+            "p1": "On dit que pour ma\u00eetriser une comp\u00e9tence, il faut passer 10 000 heures \u00e0 la d\u00e9velopper. Si vous faites cela {0}. Si cette id\u00e9e re\u00e7ue s'av\u00e8re \u00eatre vraie et que vous avez vraiment besoin de passer beaucoup de temps sur un sujet pour devenir expert en la mati\u00e8re, vous voudrez en revanche organiser votre temps de travail de mani\u00e8re plus judicieuse.",
+            "p1link1": "vous deviendrez parmi les meilleurs",
+            "p2": "Chez Fiasgo nous nous effor\u00e7ons de vous assurer de ne pas perdre votre temps. Notre mission, notre vision et notre passion font l'achat de biens de consommation non seulement plus faciles, mais aussi beaucoup plus abordables, fiables et compr\u00e9hensibles. L'achat d'une nouvelle t\u00e9l\u00e9vision, d'un ordinateur ou d'autres appareils peut prendre des heures de recherche uniquement pour comprendre les fonctionnalit\u00e9s de base qui sont couvertes par des termes techniques qui ne conviennent pas aux communs des mortels.",
+            "p3": "Alors, pourquoi passer des heures \u00e0 la recherche de termes high-tech pour recevoir des conseils contradictoires ou m\u00eame trompeurs dans une tentative d\u00e9sesp\u00e9r\u00e9e de prendre la meilleure d\u00e9cision sur ce qu'il vous faut acheter, quand il y a une meilleure fa\u00e7on de le faire?",
+            "p4": "Laissez-nous chercher pour vous.",
+            "h2": "La technologie sans le jargon technologique",
+            "p5": "Nous avons cr\u00e9\u00e9 une plate-forme qui \u00e9limine les termes et les exigences techniques techniques inconnus du processus de recherche du produit qui correspond \u00e0 vos besoins sp\u00e9cifiques, vos besoins et votre budget. Nous utilisons des termes profanes pour comprendre vos besoins et les traduire en exigences tr\u00e8s sp\u00e9cifiques, pour que vous n'avez pas \u00e0 le faire. En fonction de vos besoins vis-\u00e0-vis de ce que vous cherchez \u00e0 acheter, nous vous pr\u00e9sentons une poign\u00e9e de produits que nos algorithmes trouvent pour r\u00e9pondre \u00e0 vos besoins. Nous affichons et travaillons uniquement avec des entreprises certifi\u00e9es. Ne soyez plus soucieux d'une \u00e9ventuelle arnaque, nous attachons une grande importance et prudence quant \u00e0 ce que les d\u00e9taillants utilisent.",
+            "p6": "La langue ne devrait jamais \u00eatre un obstacle \u00e0 la d\u00e9cision d'achat. C'est pourquoi nous voulons permettre l'achats de technologies sans le jargon technologique. Nous travaillons m\u00eame \u00e0 ajouter plus de langues chaque mois, afin de vous assurer que cette derni\u00e8re ne puisse se r\u00e9v\u00e9ler \u00eatre un \u00e9ventuel obstacle pour la recherche de votre prochain achat.",
+            "h3": "Gratuit et impartial",
+            "p7": "Notre service est gratuit!",
+            "p8": "Comment?",
+            "p9": "Les d\u00e9taillants des diff\u00e9rents produits que nous proposons nous donnent un pourcentage de leurs ventes. Ce montant n'est PAS ajout\u00e9 aux prix de votre produit. Nous n'acceptons pas non plus de l'argent pour promouvoir des produits sp\u00e9cifiques. Nous n'avons aucune incitation \u00e0 vous vendre un certain produit, nous voulons seulement pour vous aider \u00e0 trouver ce qui conviendra le mieux \u00e0 vos besoins. Nous vous voyons, vous, utilisateur, comme notre client, et non les soci\u00e9t\u00e9s et les d\u00e9taillants qui vendent leurs produits. Nous assurons vos arri\u00e8res!",
+            "p10": "Si vous avez des questions, des pr\u00e9occupations, des id\u00e9es ou des commentaires g\u00e9n\u00e9raux, n'h\u00e9sitez pas \u00e0 {0}"
+        },
+        "networks": {
+            "h1": "R\u00e9seaux de filiales",
+            "p1": "Fiasgo travaille avec des r\u00e9seaux de filiales mondiaux et cherche toujours des opportunit\u00e9s d'expansion avec plus de partenaires. Nous travaillons globalement sur tous les march\u00e9s, en toutes langues et en tout temps. Nous mettons l'accent sur les produits \u00e9lectroniques grand public tels que les ordinateurs, les t\u00e9l\u00e9viseurs, les lave-vaisselle, les t\u00e9l\u00e9phones mobiles, etc. Nous travaillons \u00e0 \u00e9largir nos march\u00e9s et notre assortiment aussi rapidement que notre d\u00e9veloppement le permet.",
+            "p2": "Le trafic est g\u00e9n\u00e9r\u00e9 sur Fiasgo gr\u00e2ce \u00e0 des publicit\u00e9s et des bulletins d'information sur la marque. Nous optimisons notre SEO tous les jours pour faire correspondre tous les march\u00e9s actifs et toutes les cat\u00e9gories de produits actifs.",
+            "p3": "Nous sommes actuellement actifs en Scandinavie, mais nous recherchons toujours plus de partenaires sur les march\u00e9s aussi bien \u00e9tablis que nouveaux.",
+            "p4": "Pour vous faire entendre {0}"
+        }
+    },
+    "actions": {
+        "contactus": "contactez-nous ici",
+        "seemoredetails": "voir plus de d\u00e9tails",
+        "readmore": "En savoir plus"
+    },
+    "locale": {
+        "jp": "Japonais"
+    }
+}

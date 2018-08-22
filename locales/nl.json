@@ -1,0 +1,98 @@
+{
+    "Ukranian": "Oekra\u00efens",
+    "Polish": "Pools",
+    "Greek": "Grieks",
+    "settings": {
+        "menu": "Instellingen",
+        "country": "Land",
+        "currency": "Valuta",
+        "matching": "Sorry, geen meningen van overeenstemmingen"
+    },
+    "subscription": {
+        "input": "Voer je e-mailadres in",
+        "submit": "voorleggen",
+        "success": "Abonnement bevestigd",
+        "close": "Probeer het nog eens"
+    },
+    "home": {
+        "title": "Winkelen makkelijk moeten zijn",
+        "subtitle": "We hebben de technologie beheerd",
+        "subtitle2": "zodat u het niet hoeft te doen"
+    },
+    "menu": {
+        "buyers": "Kopers",
+        "affiliates": "Affiliates",
+        "networks": "Netwerken",
+        "contact": "Contact"
+    },
+    "locales": {
+        "en": "Engels",
+        "zh-CN": "Chinese",
+        "es": "Spaans",
+        "fr": "Frans",
+        "pt-BR": "Portugees",
+        "ru": "Russisch",
+        "ar": "Arabisch",
+        "ko": "Koreaans",
+        "it": "Italiaans",
+        "nl": "Nederlands",
+        "fa": "Perzisch",
+        "sv": "Zweeds",
+        "no": "Noors",
+        "da": "Deens",
+        "pa": "Punjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengalees",
+        "sr": "Servisch"
+    },
+    "article": {
+        "contact": {
+            "h1": "Contact",
+            "p1": "We houden van feedback en zouden uw mening op prijs stellen of u, Fiasgo, of, zoals of niet, Fiasgo gebruikt.",
+            "p2": "Als u een consument bent, neem dan contact met ons op via {mail}",
+            "p3": "Als u een bedrijf bent met affiliate linking of deel uitmaakt van een affiliate netwerk, kunt u contact met ons opnemen op {mail}"
+        },
+        "affiliates": {
+            "h1": "Affiliates",
+            "p1": "Fiasgo werkt samen met filialen uit de hele wereld. Het is onze missie om de grootste selectie consumentenelektronica te verzamelen om de klanten te profiteren door hun inkopen gladder te maken. Ze kunnen met meer vertrouwen kopen en betere resultaten verwachten voor de producten die zij kopen, omdat hun behoeften zijn gecontroleerd en afgestemd zijn op technische specificaties van wat ze willen kopen.",
+            "p2": "Kortom: Wij bieden een niveau van klantenservice en begrijpen dat e-commerce de klanten heeft beroofd, in vergelijking met bakstenen en mortelwinkels.",
+            "p3": "Wij brengen de klantenservice in e-commerce op een manier die ergens anders niet gedaan is. Door de behoeften van de consument te begrijpen, kunnen we het proces optimaliseren en versnellen waarmee een consument wordt omgezet van een potenti\u00eble koper naar een werkelijke klant. Door de expertise en begeleiding van ons platform zal het vertrouwen van de consument hoger zijn, wat resulteert in een lager rendement en hogere klanttevredenheid.",
+            "p4": "Het is een win-win-win, zowel voor de klant als voor uzelf en voor onszelf.",
+            "h2": "Gegevens van de affiliates:",
+            "p5": "Wij zijn trots op het hebben van de meest actuele gegevens. Wat we niet krijgen van onze affiliate netwerken, verzamelen we van de retailers zelf. Om ervoor te zorgen dat wij altijd de juiste gegevens hebben, crawlen wij websites om de meest correcte informatie over producten, prijzen, afbeeldingen, enz. Te verzekeren. Wij doen dit op een snelle, eenvoudige en veilige manier. Wij schrapen alleen informatie die we nodig hebben om de werkelijke verkoop van de producten te optimaliseren.",
+            "p6": "Ge\u00efnteresseerd in het samenwerken met Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Vereenvoudigd winkelen",
+            "p1": "Er wordt gezegd dat je een vaardigheid echt moet beheersen, je moet 10.000 uur doorbrengen om het te ontwikkelen. Als u dat doet, {0}. Als dit concept waar is en je echt zo veel tijd moet uitgeven aan iets om expert te worden, zou je misschien willen overwegen hoe je je tijd meer verstandig kan besteden.",
+            "p1link1": "wordt u de beste",
+            "p2": "Bij Fiasgo streven we ernaar om ervoor te zorgen dat u uw verspillingstijd niet doet. Het is onze missie, visie en passie om de aankoop van consumptiegoederen niet alleen makkelijker, maar ook veel meer toegankelijk, betrouwbaar en begrijpelijk te maken. Het kopen van een nieuwe televisie, computer of andere apparaten kan uren onderzoeken om de basisfuncties te begrijpen die in technische termen zijn begrepen die niet geschikt zijn voor alleenstaande sterfgevallen om volledig te begrijpen.",
+            "p3": "Dus waarom besteden u uren aan onderzoek met verwarrende hightech voorwaarden en tegenstrijdig of zelfs misleidend advies in een hopeloze poging om de beste beslissing te nemen over wat te kopen, wanneer er een betere manier is?",
+            "p4": "Laten we onderzoek doen voor u.",
+            "h2": "Tech zonder de tech jargon",
+            "p5": "We have created a platform that eliminates hardcore tech savvy terms and requirements from the process of finding the product that matches your specific needs, requirements, and budget. We are using layman terms to understand your needs and translate those into highly specific requirements, so you don\u2019t have to. Based on your requirements for what you are looking to buy we present you with a handful of products that our algorithms find to best suit your needs. We only display and work with companies that are certified. Don't worry about being scammed or phished as we are very cautious as to what retailers are used.",
+            "p6": "Taal moet nooit een belemmering zijn bij het maken van de juiste aankoopbeslissing. Daarom willen we technisch winkelen zonder de tech jargon inschakelen. We werken zelfs elke maand meer talen aan, om ervoor te zorgen dat de taal nooit een belemmering is om uw volgende aankoop te vinden.",
+            "h3": "Vrij en onbevooroordeeld",
+            "p7": "Onze service is gratis!",
+            "p8": "Hoe?",
+            "p9": "De retailers van de producten die wij voorstellen geven ons een percentage van hun verkoop. Dit bedrag wordt NIET aan uw productprijzen toegevoegd. We accepteren ook geen geld om specifieke producten te promoten. Wij hebben geen aansporing om u een bepaald product te verkopen, alleen om u te helpen bij het vinden van wat u best past. Wij zien u, onze gebruiker, als onze klant - niet de bedrijven en retailers die de producten verkopen. We hebben je rug!",
+            "p10": "Als u nog vragen, problemen, idee\u00ebn of algemene feedback heeft, aarzel dan niet om {0}"
+        },
+        "networks": {
+            "h1": "Affiliate netwerken",
+            "p1": "Fiasgo werkt samen met wereldwijde affiliate netwerken en is altijd op zoek naar uitbreidingsmogelijkheden met meer partners. Wij werken te allen tijde wereldwijd op alle markten, in alle talen. Onze focus is consumenten elektronische goederen zoals computers, televisies, vaatwassers, mobiele telefoons enzovoort. Wij werken aan onze markten en ons assortiment zo snel mogelijk uit te breiden.",
+            "p2": "Verkeer wordt gegenereerd aan de Fiasgo site door middel van direct- en merkbewustheidsadvertenties en nieuwsbrieven. Wij optimaliseren onze SEO dagelijks om alle actieve markten en alle actieve productcategorie\u00ebn aan te passen.",
+            "p3": "We zijn momenteel actief in Scandinavi\u00eb, maar zijn altijd op zoek naar meer partners in zowel gevestigde markten als nieuwe.",
+            "p4": "Om contact met ons op te nemen alsjeblieft {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Contacteer ons hier",
+        "seemoredetails": "Zie hier meer details",
+        "readmore": "Lees verder"
+    },
+    "locale": {
+        "jp": "Japans"
+    }
+}

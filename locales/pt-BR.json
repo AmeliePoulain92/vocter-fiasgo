@@ -1,0 +1,183 @@
+{
+    "menu": {
+        "settings": "Configura\u00e7\u00f5es",
+        "buyers": "Compradores",
+        "affiliates": "Afiliados",
+        "networks": "Redes",
+        "contact": "Contato"
+    },
+    "country": {
+        "mx": "M\u00e9xico",
+        "ca": "Canad\u00e1",
+        "us": "Estados Unidos da America",
+        "au": "Austr\u00e1lia",
+        "de": "Alemanha",
+        "in": "\u00cdndia",
+        "za": "\u00c1frica do Sul",
+        "bd": "Bangladesh",
+        "jp": "Jap\u00e3o",
+        "pt": "Portugal",
+        "ru": "R\u00fassia",
+        "ae": "Emirados \u00c1rabes Unidos",
+        "kr": "Cor\u00e9ia",
+        "it": "It\u00e1lia",
+        "nl": "Pa\u00edses Baixos",
+        "se": "Su\u00e9cia",
+        "no": "Noruega",
+        "dk": "Dinamarca",
+        "sr": "S\u00e9rvia",
+        "ph": "Filipinas",
+        "ua": "Ucr\u00e2nia",
+        "pl": "Pol\u00f4nia",
+        "gr": "Gr\u00e9cia",
+        "gb": "Reino Unido",
+        "cn": "China",
+        "es": "Spain",
+        "fr": "Fran\u00e7a"
+    },
+    "error": {
+        "nomatch": "Desculpe, n\u00e3o combina!"
+    },
+    "settings": {
+        "country": "Pa\u00eds",
+        "currency": "Moeda"
+    },
+    "subscription": {
+        "input": "Insira seu email",
+        "submit": "Enviar"
+    },
+    "page": {
+        "questions": {
+            "h1": "Quest\u00f5es"
+        }
+    },
+    "nps": {
+        "feedback": {
+            "notext": "N\u00e3o, obrigado",
+            "button": "Enviar coment\u00e1rios",
+            "text": "Obrigado. Voc\u00ea gostaria de elaborar sua resposta?",
+            "done": "Obrigado pelo seu coment\u00e1rios!"
+        },
+        "question": {
+            "text": "Qu\u00e3o bem voc\u00ea acha que o produto corresponde \u00e0s suas necessidades?",
+            "little": "Muito pouco",
+            "alot": "Muito"
+        }
+    },
+    "productpage": {
+        "buybutton": "Ir ao vendedor",
+        "sellers": "Vendedores",
+        "instock": "Em estoque?",
+        "price": "Pre\u00e7o",
+        "buy": "Comprar"
+    },
+    "question": {
+        "prioritize": {
+            "title": "Prioritizar",
+            "text": "Como voc\u00ea priorizaria o seguinte?",
+            "screensize": "Tamanho da tela",
+            "audioquality": "Qualidade de \u00e1udio",
+            "imagequality": "Qualidade da imagem"
+        },
+        "quality": "Qualidade",
+        "yes": "Sim",
+        "no": "N\u00e3o",
+        "importance": {
+            "title": "Import\u00e2ncia",
+            "text": "O que \u00e9 mais importante pra voc\u00ea?"
+        },
+        "watchingtv": {
+            "title": {
+                "": "Assistindo TV",
+                "5hours": "5 horas ou menos",
+                "10hours": "10 horas",
+                "20hours": "20 horas",
+                "40hours": "40 horas",
+                "60hours": "60 horas ou mais"
+            },
+            "text": "Quantas horas de TV voc\u00ea assiste por semana?"
+        },
+        "smarttv": {
+            "title": "Smart TV",
+            "text": "Voc\u00ea prefere uma Smart TV?"
+        },
+        "price": "Pre\u00e7o"
+    },
+    "locales": {
+        "sr": "S\u00e9rvio",
+        "ph": "Filipino",
+        "ur": "Ucraniano",
+        "pl": "Polon\u00eas",
+        "gr": "Grego",
+        "en": "Ingl\u00eas",
+        "zh-CN": "Chin\u00eas simplificado",
+        "es": "Espanhol",
+        "fr": "Franc\u00eas",
+        "pt-BR": "Portugu\u00eas",
+        "ru": "Russo",
+        "ar": "\u00c1rabe",
+        "ko": "Coreano",
+        "it": "Italiano",
+        "nl": "Holand\u00eas",
+        "fa": "Persa",
+        "sv": "Sueco",
+        "no": "Noruegu\u00eas",
+        "da": "Dinamarqu\u00eas",
+        "pa": "Punjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengali",
+        "jp": "Japon\u00eas"
+    },
+    "home": {
+        "title": "Compras Simplificadas",
+        "subtitle": "N\u00f3s domin\u00e1mos tecnologia",
+        "subtitle2": "para que tu n\u00e3o tenhas"
+    },
+    "article": {
+        "contact": {
+            "h1": "Contato",
+            "p1": "Adoramos coment\u00e1rios e gostar\u00edamos de saber as suas opini\u00f5es se voc\u00ea usa, trabalha, gosta ou n\u00e3o gosta do Fiasgo.",
+            "p2": "Se \u00e9 um consumidor, por favor contate-nos via {mail}",
+            "p3": "Se voc\u00ea \u00e9 uma companhia com liga\u00e7\u00f5es afiliadas ou redes afiliadas, por favor contate-nos em {mail}"
+        },
+        "affiliates": {
+            "h1": "Afiliados",
+            "p1": "Fiasgo trabalha com afiliados de todo o mundo. \u00c9 a nossa miss\u00e3o obter a maior sele\u00e7\u00e3o de eletr\u00f4nicos para beneficiar os clientes e tornar as suas compras mais faceis. Eles podem comprar com mais confian\u00e7a e esperar melhor resultados dos produtos que compram, visto que as suas necessidades foram observadas e combinadas com especifica\u00e7\u00f5es t\u00e9cnicas de aquilo que querem comprar.",
+            "p2": "Resumindo: Oferecemos um nivel de servi\u00e7o ao cliente e entendimento que o com\u00e9rcio eletr\u00f4nico privou aos clientes, comparando com lojas de tijolos e argamassa.",
+            "p3": "Trazemos servi\u00e7o ao cliente para o com\u00e9rcio eletr\u00f4nico numa maneira n\u00e3o vista em lado nenhum. Ao perceber as necessidades do consumidor, podemos otimizar e acelerar o processo em que um consumidor \u00e9 convertido de um potencial comprador para um cliente real. Atrav\u00e9s da orienta\u00e7\u00e3o especializada da nossa plataforma a confian\u00e7a de compra do consumidor ser\u00e1 mais alta, resultando numa menor taxa de retorno e maior satisfa\u00e7\u00e3o do cliente.",
+            "p4": "\u00c9 um win-win-win, para o cliente, voc\u00ea e n\u00f3s.",
+            "h2": "Dados dos afiliados:",
+            "p5": "N\u00f3s temos orgulho de ter os dados mais atualizados. O que n\u00e3o recebemos das nossas redes de afiliados, n\u00f3s arranjamos dos retalhistas. Para garantir que temos os dados corretos a toda a hora n\u00f3s rastreamos sites para garantir informa\u00e7\u00e3o correta sobre produtos, pre\u00e7os, imagens, etc. Fazemos isto de uma maneira r\u00e1pida, simples e segura. N\u00f3s apenas tiramos a informa\u00e7\u00e3o necess\u00e1ria para otimizar a venda real dos produtos.",
+            "p6": "Interessado em cooperar com Fiasgo? {0}"
+        },
+        "buyers": {
+            "h1": "Compras Simplificadas",
+            "p1": "Diz-se que para realmente dominar uma habilidade, deve-se gastar 10.000 horas desenvolvendo-a. Se voc\u00ea faz isso {0}. Se este conceito for verdade e voc\u00ea realmente precisa de gastar tanto tempo em algo para se tornar um especialista, voc\u00ea poder\u00e1 querer considerar como \u00e9 que consegue gastar o seu tempo com mais sabedoria.",
+            "p1link1": "ir\u00e1-se tornar em um dos melhores",
+            "p2": "No Fiasgo n\u00f3s esfor\u00e7amo-nos para garantir voc\u00ea n\u00e3o desperdi\u00e7a o seu tempo. \u00c9 a nossa miss\u00e3o, vis\u00e3o e paix\u00e3o fazer a compra de bens de consumo n\u00e3o s\u00f3 mais facil mas tamb\u00e9m muito mais acess\u00edvel, confi\u00e1vel e compreens\u00edvel. Comprar um novo televisor, computador ou outros aparelhos pode levar horas de pesquisa s\u00f3 para entender as funcionalidades b\u00e1sicas que s\u00e3o cobertas em termos t\u00e9cnicos n\u00e3o adequados para a compreens\u00e3o de meros mortais.",
+            "p3": "Ent\u00e3o porqu\u00ea gastar horas com termos de alta tecnologia confusos e conselhos conflituosos, ou at\u00e9 mesmo enganadores, numa tentativa sem esperan\u00e7a de tomar a melhor decis\u00e3o sobre o que comprar, quando existe uma melhor maneira?",
+            "p4": "Deixe-nos fazer a pesquisa por voc\u00ea",
+            "h2": "Tecnologia sem o cal\u00e3o tecnol\u00f3gico",
+            "p5": "Cri\u00e1mos uma plataforma que elimina termos tecnol\u00f3gicos hardcore exigentes e requisitos do processo de encontrar o produto que corresponde \u00e0s suas necessidades, requesitos e or\u00e7amento. Estamos a usar termos leigos para perceber as suas necessidades e traduzi-las em requesitos altamente espec\u00edficos, para que voc\u00ea n\u00e3o tenha. Com base nos seus requisitos para o que voc\u00ea procura comprar apresentamos um conjunto de produtos que os nossos algoritmos encontram para melhor atender \u00e0s suas necessidades. N\u00f3s s\u00f3 mostramos e trabalhos com companhias que pensamos que voc\u00ea deve confiar. N\u00e3o se preocupe com encontrar sites que n\u00e3o s\u00e3o revendedores certificados. S\u00f3 trabalhamos com pessoas que n\u00f3s pr\u00f3prios confiamos!",
+            "p6": "Linguagem nunca deveria ser uma barreira em fazer a decis\u00e3o de compra correta. \u00c9 por isso que queremos habilitar compras tecnol\u00f3gicas sem o cal\u00e3o tecnol\u00f3gico. At\u00e9 trabalhamos em adicionar mais linguagens cada m\u00eas, para garantir que a linguagem nunca \u00e9 um obst\u00e1culo em encontrar a sua pr\u00f3xima compra.",
+            "h3": "Gratuito e imparcial",
+            "p7": "O nosso servi\u00e7o \u00e9 gratuito!",
+            "p8": "Como?",
+            "p9": "Os revendedores dos produtos que sugerimos d\u00e3o-nos uma percentagem das suas vendas. O valor N\u00c3O \u00e9 acrescentado aos pre\u00e7os dos seus produtos. Tamb\u00e9m n\u00e3o aceitamos dinheiro para promover produtos espec\u00edficos. N\u00e3o temos incentivo para vender certos produtos, s\u00f3 para ajud\u00e1-lo a encontrar o que melhor se adapta \u00e0s suas necessidades. N\u00f3s pensamos em voc\u00ea, nosso utilizador, como o nosso cliente - n\u00e3o as companhias e revendedores que vendem os produtos. N\u00f3s temos as suas costas!",
+            "p10": "Se tiver perguntas, preocupa\u00e7\u00f5es, ideias ou coment\u00e1rios gerais por favor n\u00e3o hesite em {0}"
+        },
+        "networks": {
+            "h1": "Redes de afiliados",
+            "p1": "Fiasgo est\u00e1 a trabalhar com redes de afiliados globais e est\u00e1 sempre \u00e0 procura de oportunidades de expans\u00e3o com mais parceiros. Trabalhamos globalmente em todos os mercados, em todas as linguagens a toda a hora. Focamo-nos em produtos eletr\u00f3nicos como computadores, televisores, m\u00e1quinas de lavar a loi\u00e7a, telefones e assim por diante. Estamos a trabalhar para expandir os nossos mercados e a nossa variedade t\u00e3o rapido quanto o nosso \ndesenvolvimento permitir.",
+            "p2": "O tr\u00e1fego \u00e9 gerado para o site Fiasgo atrav\u00e9z de anuncios diretos e conscientes da marca e boletins informativos. N\u00f3s otimizamos o nosso SEO diariamente para combinar todos os mercados ativos e todas as categorias de produtos ativos.",
+            "p3": "Atualmente estamos ativos na Escandin\u00e1via, mas estamos sempre \u00e0 procura de mais parceiros em ambos mercados estabelecidos e novos.",
+            "p4": "Para nos contatar, por favor {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Entre em contato aqui",
+        "seemoredetails": "veja mais detalhes aqui",
+        "readmore": "Leia mais"
+    }
+}

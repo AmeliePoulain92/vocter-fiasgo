@@ -1,0 +1,183 @@
+{
+    "menu": {
+        "settings": "Instillinger",
+        "buyers": "Kj\u00f8pere",
+        "affiliates": "Affiliates",
+        "networks": "Networks",
+        "contact": "Kontakt"
+    },
+    "country": {
+        "mx": "Mexico",
+        "ca": "Canada",
+        "us": "USA",
+        "au": "Australia",
+        "de": "Tyskland",
+        "in": "India",
+        "za": "S\u00f8r-Afrika",
+        "bd": "Bangladesh",
+        "jp": "Japan",
+        "pt": "Portugal",
+        "ru": "Russland",
+        "ae": "Forente Arabiske Emirater",
+        "kr": "Korea",
+        "it": "Italia",
+        "nl": "Nederland",
+        "se": "Sverige",
+        "no": "Norge",
+        "dk": "Danmark",
+        "sr": "Serbia",
+        "ph": "Filippinene",
+        "ua": "Ukraina",
+        "pl": "Polen",
+        "gr": "Hellas",
+        "gb": "Storbritannia",
+        "cn": "Kina",
+        "es": "Spania",
+        "fr": "Frankrike"
+    },
+    "error": {
+        "nomatch": "Beklager, ingen treff!"
+    },
+    "settings": {
+        "country": "Land",
+        "currency": "Valuta"
+    },
+    "subscription": {
+        "input": "Epostadresse",
+        "submit": "Sende inn"
+    },
+    "page": {
+        "questions": {
+            "h1": "Sp\u00f8rsm\u00e5l"
+        }
+    },
+    "nps": {
+        "feedback": {
+            "notext": "Nei takk",
+            "button": "Send tilbakemelding",
+            "text": "Takk. Vil du utdyre svaret ditt?",
+            "done": "Takk for din tilbakemelding!"
+        },
+        "question": {
+            "text": "Hvor bra syntes du at produktet passer til dine behov?",
+            "little": "Veldig lite",
+            "alot": "Veldig mye"
+        }
+    },
+    "productpage": {
+        "buybutton": "G\u00e5 til selger",
+        "sellers": "Selgere",
+        "instock": "P\u00e5 lager?",
+        "price": "Pris",
+        "buy": "Kj\u00f8pe"
+    },
+    "question": {
+        "prioritize": {
+            "title": "Prioriter",
+            "text": "Hvordan vil du prioritere f\u00f8lgende?",
+            "screensize": "Skjerm st\u00f8rrelse",
+            "audioquality": "Lydkvalitet",
+            "imagequality": "Bildekvalitet"
+        },
+        "quality": "Kvalitet",
+        "yes": "Ja",
+        "no": "Nei",
+        "importance": {
+            "title": "Betydning",
+            "text": "Hva er viktigst for deg?"
+        },
+        "watchingtv": {
+            "title": {
+                "": "Ser p\u00e5 TV",
+                "5hours": "5 timer eller mindre",
+                "10hours": "10 timer",
+                "20hours": "20 timer",
+                "40hours": "40 timer",
+                "60hours": "60 timer eller mer"
+            },
+            "text": "Hvor mange timer med TV ser du p\u00e5 hver uke?"
+        },
+        "smarttv": {
+            "title": "Smart TV",
+            "text": "Vil du foretrekke en Smart TV?"
+        },
+        "price": "Pris"
+    },
+    "locales": {
+        "sr": "Serbisk",
+        "ph": "Filipino",
+        "ur": "Ukranisk",
+        "pl": "Polsk",
+        "gr": "Gresk",
+        "en": "Engelsk",
+        "zh-CN": "Kinesisk",
+        "es": "Spansk",
+        "fr": "Fransk",
+        "pt-BR": "Portugisisk",
+        "ru": "Russisk",
+        "ar": "Arabisk",
+        "ko": "Korean",
+        "it": "Italiensk",
+        "nl": "Nederlandsk",
+        "fa": "Persian",
+        "sv": "Svensk",
+        "no": "Norsk",
+        "da": "Dansk",
+        "pa": "Punjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengali",
+        "jp": "Japansk"
+    },
+    "home": {
+        "title": "Forenklet shopping",
+        "subtitle": "Vi mestret teknologien",
+        "subtitle2": "s\u00e5 du trenger ikke"
+    },
+    "article": {
+        "contact": {
+            "h1": "Kontakt",
+            "p1": "Vi elsker tilbakemeldinger og vil sette pris p\u00e5 din mening om du bruker, jobber med, liker eller misliker Fiasgo.",
+            "p2": "Hvis du er forbruker, vennligst kontakt oss via {mail}",
+            "p3": "Hvis du er et selskap som har tilknyttet tilknytning eller er en del av et tilknyttet nettverk, kan du kontakte oss p\u00e5 {mail}"
+        },
+        "affiliates": {
+            "h1": "Affiliates",
+            "p1": "Fiasgo jobber med partnere fra hele verden. Det er v\u00e5rt oppdrag \u00e5 samle det st\u00f8rste utvalget av forbrukerelektronikk til fordel for kundene ved \u00e5 gj\u00f8re kj\u00f8pet jevnere. De kan kj\u00f8pe med mer selvtillit og forvente bedre resultater for de produktene de kj\u00f8per, ettersom deres behov har blitt vist og matchet med tekniske spesifikasjoner for hva de \u00f8nsker \u00e5 kj\u00f8pe.",
+            "p2": "Kort sagt: Vi tilbyr et niv\u00e5 av kundeservice og forst\u00e5else for at e-handel har fratatt kundene fra, sammenlignet med fysiske butikker.",
+            "p3": "Vi tar kundeservice inn i e-handel p\u00e5 en m\u00e5te som ikke har blitt gjort noe annet sted. Ved \u00e5 forst\u00e5 forbrukerens behov kan vi optimalisere og \u00f8ke hastigheten p\u00e5 prosessen som en forbruker konverterer fra en potensiell kj\u00f8per til en faktisk kunde. Gjennom kompetanse og veiledning gitt av v\u00e5r plattform vil forbrukerens tillit v\u00e6re h\u00f8yere, noe som resulterer i lavere avkastning og h\u00f8yere kundetilfredshet.",
+            "p4": "Det er en vinn-vinn-vinn, for b\u00e5de kunden, deg og oss.",
+            "h2": "Data fra tilknyttede affiliates:",
+            "p5": "Vi er stolte av \u00e5 ha de mest oppdaterte dataene. Det vi ikke f\u00e5r fra v\u00e5re tilknyttede nettverk, samler vi fra forhandlerne selv. For \u00e5 sikre at vi har de riktige dataene til enhver tid, gjennomg\u00e5r vi nettsider for \u00e5 sikre den mest korrekte informasjonen om produkter, priser, bilder etc. Vi gj\u00f8r dette p\u00e5 en rask, enkel og sikker m\u00e5te. Vi skraper bare informasjon vi trenger for \u00e5 optimalisere det faktiske salget av produktene.",
+            "p6": "Interessert i \u00e5 samarbeide med Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Forenklet shopping",
+            "p1": "Det sies at for \u00e5 virkelig mestre en ferdighet m\u00e5 du tilbringe 10.000 timer \u00e5 utvikle den. Hvis du gj\u00f8r det, {0}. Hvis dette konseptet er sant, og du virkelig trenger \u00e5 bruke s\u00e5 mye tid p\u00e5 noe \u00e5 bli ekspert, kan du kanskje vurdere hvordan du kan bruke tiden din klokere.",
+            "p1link1": "blir du blant de beste",
+            "p2": "P\u00e5 Fiasgo fors\u00f8ker vi \u00e5 s\u00f8rge for at du ikke kaster bort tiden din. Det er v\u00e5rt oppdrag, visjon og lidenskap for \u00e5 gj\u00f8re kj\u00f8p av forbruksvarer ikke bare enklere, men ogs\u00e5 mye mer tiln\u00e6rmet, p\u00e5litelig og forst\u00e5elig. Kj\u00f8pe en ny tv, datamaskin eller andre enheter kan ta flere timer for \u00e5 forst\u00e5 de grunnleggende funksjonalitetene som er dekket av tekniske termer som ikke er egnet for bare d\u00f8delige \u00e5 forst\u00e5.",
+            "p3": "S\u00e5 hvorfor bruke timer p\u00e5 forskning med forvirrende h\u00f8yteknologiske vilk\u00e5r og motstridende eller til og med villedende r\u00e5d i et h\u00e5pl\u00f8st fors\u00f8k p\u00e5 \u00e5 ta den beste beslutningen om hva du skal kj\u00f8pe, n\u00e5r det er en bedre m\u00e5te?",
+            "p4": "La oss gj\u00f8re for \u00e5 unders\u00f8ke for deg.",
+            "h2": "Tech uten tech-sjargongen",
+            "p5": "Vi har opprettet en plattform som eliminerer hardcore tech savvy vilk\u00e5r og krav fra prosessen med \u00e5 finne produktet som samsvarer med dine spesifikke behov, krav og budsjett. Vi bruker lekervilk\u00e5r for \u00e5 forst\u00e5 dine behov og oversette dem til sv\u00e6rt spesifikke krav, s\u00e5 du trenger ikke. Basert p\u00e5 dine krav til hva du \u00f8nsker \u00e5 kj\u00f8pe, presenterer vi deg med en h\u00e5ndfull produkter som v\u00e5re algoritmer finner som best passer dine behov. Vi viser og jobber kun med selskaper som er sertifisert. Ikke bekymre deg for \u00e5 bli scammed eller phished som vi er sv\u00e6rt forsiktige med til hvilke forhandlere som brukes.",
+            "p6": "Sprog b\u00f8r aldrig v\u00e6re en hindring for at tr\u00e6ffe den rigtige k\u00f8bsbeslutning. Det er derfor, vi \u00f8nsker at g\u00f8re det muligt at tech shopping uden tech jargon. Vi arbejder endda p\u00e5 at tilf\u00f8je flere sprog, hver m\u00e5ned for at sikre, at sproget aldrig er en hindring for at du kan finde dit n\u00e6ste k\u00f8b.",
+            "h3": "Gratis og ikke-forutinntatt",
+            "p7": "V\u00e5r tjeneste er gratis!",
+            "p8": "Hvordan?",
+            "p9": "Forhandlerne av produktene vi foresl\u00e5r gir oss en prosentandel av salget. Dette bel\u00f8pet er IKKE lagt til produktpriser. Vi aksepterer heller ikke penger for \u00e5 markedsf\u00f8re bestemte produkter. Vi har ingen insentiv til \u00e5 selge deg et bestemt produkt, bare for \u00e5 hjelpe deg med \u00e5 finne det som passer best til dine behov. Vi ser deg, v\u00e5r bruker, som v\u00e5r kunde - ikke de selskaper og forhandlere som selger produktene. Vi har ryggen din!",
+            "p10": "Hvis du har sp\u00f8rsm\u00e5l, bekymringer, ideer eller generell tilbakemelding, vennligst ikke n\u00f8l med \u00e5 {0}"
+        },
+        "networks": {
+            "h1": "Affiliate nettverk",
+            "p1": "Fiasgo jobber med globale affiliate-nettverk og er alltid ute etter ekspansjonsmuligheter med flere partnere. Vi jobber globalt i alle markeder, p\u00e5 alle spr\u00e5k til enhver tid. V\u00e5rt fokus er forbrukerelektroniske varer som datamaskiner, fjernsyn, oppvaskmaskiner, mobiltelefoner og s\u00e5 videre. Vi arbeider for \u00e5 utvide markedene og sortimentet v\u00e5rt s\u00e5 fort som v\u00e5r utvikling tillater.",
+            "p2": "Trafikk er generert til Fiasgo-siden gjennom direkte- og merketeknikkannonser og nyhetsbrev. Vi optimaliserer v\u00e5r SEO daglig for \u00e5 matche alle aktive markeder og alle aktive produktkategorier.",
+            "p3": "Vi er for tiden aktive i Skandinavia, men er alltid p\u00e5 utkikk etter flere partnere i b\u00e5de etablerte markeder og nye.",
+            "p4": "For \u00e5 komme i kontakt med oss {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Kontakt oss her",
+        "seemoredetails": "se flere detaljer her",
+        "readmore": "Les mer"
+    }
+}

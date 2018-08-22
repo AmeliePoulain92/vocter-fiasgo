@@ -1,0 +1,9 @@
+.flag {
+  display: inline-block;
+}
+
+.flag-en { @include sprite($flag-gb); }
+.flag-fr { @include sprite($flag-fr); }
+.flag-da { @include sprite($flag-da); }
+.flag-jp { @include sprite($flag-jp); }
+.flag-ru { @include sprite($flag-ru); }

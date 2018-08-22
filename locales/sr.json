@@ -1,0 +1,98 @@
+{
+    "Serbian": "Srpski",
+    "Ukranian": "Ukrainski",
+    "Polish": "Poljski",
+    "Greek": "Gr\u010dki",
+    "settings": {
+        "menu": "Podešavanja",
+        "country": "Zemlja",
+        "currency": "valuta",
+        "matching": "Izvini , nema komentara"
+    },
+    "subscription": {
+        "input": "Unesite email",
+        "submit": "Prihvati",
+        "success": "Pretplata Potvrđena",
+        "close": "Pokušajte ponovo"
+    },
+    "home": {
+        "title": "Pojednostavljena kupovina",
+        "subtitle": "Mi smo savladali tehnologiju",
+        "subtitle2": "da vi ne biste morali"
+    },
+    "menu": {
+        "buyers": "Kupci",
+        "affiliates": "Saradnici",
+        "networks": "Mre\u017ee",
+        "contact": "Kontakt"
+    },
+    "locales": {
+        "en": "Engleski",
+        "zh-CN": "Pojednostavljeni kineski",
+        "es": "\u0160panski",
+        "fr": "Francuski",
+        "pt-BR": "Portugalski",
+        "ru": "Ruski",
+        "ar": "Arapski",
+        "ko": "Korejski",
+        "it": "Italijanski",
+        "nl": "Holandski",
+        "fa": "Persijski",
+        "sv": "\u0160vedski",
+        "no": "Norve\u0161ki",
+        "da": "Danski",
+        "pa": "Pand\u017eapski",
+        "hi": "Hindski",
+        "af": "Afrikaans",
+        "bn": "Bengalski"
+    },
+    "article": {
+        "contact": {
+            "h1": "Kontakt",
+            "p1": "Volimo povratne informacije i \u017eelimo va\u0161e mi\u0161ljenje o tome da li koristite, radite sa, volite ili ne volite Fiasgo.",
+            "p2": "Ako ste potro\u0161a\u010d, kontaktirajte nas preko {mail}",
+            "p3": "Ako ste kompanija koja ima poslovnih veza ili ste deo neke filijale, molimo kontaktirajte nas na {mail}"
+        },
+        "affiliates": {
+            "h1": "Saradnici",
+            "p1": "Fiasgo radi sa saradnicima \u0161irom sveta. Na\u0161a je misija da sakupimo najve\u0107u selekciju potro\u0161a\u010dke elektronike u korist kupaca tako \u0161to \u010dinimo njihovu kupovinu lak\u0161om. Oni mogu kupovati sa vi\u0161e samopouzdanja i o\u010dekivati bolje rezultate proizvoda koji kupuju, jer su njihove potrebe proverene i u skladu sa tehni\u010dkim specifikacijama onoga \u0161to \u017eele da kupe.",
+            "p2": "Ukratko: Nudimo nivo korisni\u010dkog servisa i razumevanja koji nedostaju u e-trgovini, u pore\u0111enju sa prodavnicama cigli i maltera.",
+            "p3": "Donosimo korisni\u010dki servis u e-trgovinu na na\u010din koji nije vi\u0111en nigde. Imaju\u0107i razumevanja za potrebe potro\u0161a\u010da, mi optimizujemo i ubrzavamo proces u kojem je potro\u0161a\u010d pretvoren iz potencijalnog kupca u pravog stalnog kupca. Kroz ekspertizu i smernice date od na\u0161e platforme, potro\u0161a\u010devo samopouzdanje u kupovini \u0107e biti rezultirano u ni\u017eoj stopi povra\u0107aja i ve\u0107im zadovoljstvom kupca.",
+            "p4": "To je dobitak i za kupca, i za vas, i za nas.",
+            "h2": "Podaci od saradnika:",
+            "p5": "Ponosni smo \u0161to imamo naja\u017eurnije podatke. Ono \u0161to ne dobijemo od partnerskih mre\u017ea, mi sakupljamo od samih trgovaca. Da bismo bili sigurni da imamo ta\u010dne podatke mi konstantno idemo kroz internet stranice i proveravamo najta\u010dniju informaciju o proizvodima, cene, slike, itd. To radimo na brz, jednostavan i siguran na\u010din. Uzimamo samo informacije potrebne za optimizovanje prodaje proizvoda.",
+            "p6": "\u017delite li da sara\u0111ujete sa Fiasgo? {0}"
+        },
+        "buyers": {
+            "h1": "Pojednostavljena kupovina",
+            "p1": "Ka\u017eu da za istinsko savladavanje ve\u0161tine morate potro\u0161iti 10.000 sati grade\u0107i je. Ako to uradite {0}. Ako je ovaj koncept istina i ako vam zaista treba toliko vremena da biste bili ekspert u ne\u010demu, mo\u017eda biste \u017eeleli da razmislite kako da va\u0161e vreme potro\u0161ite pametno. ",
+            "p1link1": "bi\u0107ete me\u0111u najboljima",
+            "p2": "Fiasgo se trudi da vam obezbedi da ne gubite vreme. Na\u0161a je misija, vizija i strast da u\u010dinimo kupovinu ne samo lak\u0161om nego i mnogo pristupa\u010dnijom, sigurnijom i razumljivijom. Kupovanje televizora, kompjutera ili nekog drugog  ure\u0111aja mo\u017ee potrajati satima, samo da bi se shvatile osnovne funkcionalnosti pokrivene tehni\u010dkim izrazima koji su te\u0161ki za razumeti obi\u010dnim smrtnicima.",
+            "p3": "Za\u0161to provesti sate u pretra\u017eivanju zbunjuju\u0107ih stru\u010dnih izraza pa \u010dak i pogre\u0161nih saveta u beznade\u017enom poku\u0161aju da donesete najbolju odluku oko kupovine, kad postoji bolji na\u010din?",
+            "p4": "Pustite nas da uradimo pretragu za vas.",
+            "h2": "Tehnika bez tech \u017eargona",
+            "p5": "Stvorili smo platformu koja elimini\u0161e te\u0161ke tehni\u010dke izraze i zahteve iz procesa pronala\u017eenja proizvoda koji odgovara va\u0161im potrebama, zahtevima i i bud\u017eetu. Koristimo lai\u010dke izraze da razumemo va\u0161e potrebe i prevodimo ih u visoko specifi\u010dne zahteve, da vi ne biste morali. Zasnovano na va\u0161im zahtevima o onome \u0161to tra\u017eite da kupite predstavljamo vam gomilu proizvoda koji na\u0161i algoritmi na\u0111u da najvi\u0161e odgovaraju va\u0161im potrebama. Mi prikazujemo i radimo samo sa sertifikovanim kompanijama. Ne brinite o prevarama jer mi pazimo koji se prodavci koriste.",
+            "p6": "Jezik nikada ne bi trebao da bude prepreka u odgovaraju\u0107oj odluci za kupovinu. Zato \u017eelimo da omogu\u0107imo tech kupovinu bez tehni\u010dkih \u017eargona. Radimo na tome da se nov jezik ubacuje mese\u010dno, da bismo bili sigurni da jezik nikada nije prepreka u pronala\u017eenju va\u0161e slede\u0107e kupovine.",
+            "h3": "Besplatno i objektivno",
+            "p7": "Na\u0161 servis je besplatan!",
+            "p8": "Kako?",
+            "p9": "Prodavci proizvoda koji predla\u017eemo daju nam procenat njihove zarade. Taj procenat NIJE ura\u010dunat u va\u0161e cene. Mi tako\u0111e ne prihvatamo novac za promociju odre\u0111enih proizvoda. Mi nemamo podsticaja da vam prodamo odre\u0111eni proizvod, ve\u0107 samo da vam pomognemo da na\u0111ete ono \u0161to najvi\u0161e odgovara va\u0161im potrebama. Mi vas vidimo kao mu\u0161teriju - ne korporacije i prodavce koji prodaju proizvod. Brinemo o vama!",
+            "p10": "Ako imate pitanja, brige, ideje ili generalne povratne informacije, ne ustru\u010davajte se da {0}"
+        },
+        "networks": {
+            "h1": "Filijale",
+            "p1": "Fiasgo radi sa svetskim partnerima i uvek tra\u017ei mogu\u0107nosti \u0161irenja i vi\u0161e saradnika. Radimo na svim tr\u017ei\u0161tima, na svim jezicima i u svako doba. Na\u0161 fokus su potro\u0161a\u010dka elektronska dobra kao \u0161to su kompjuteri, televizori, ma\u0161ine za pranje sudova, mobilni telefoni itd. Radimo na tome da pro\u0161irimo tr\u017ei\u0161te i asortiman \u0161to je br\u017ee mogu\u0107e.",
+            "p2": "Saobra\u0107aj se generi\u0161e na Fiasgo sajtu kroz direktne reklamne oglase i biltene. Optimizujemo na\u0161 SEO svakodnevno da bi sparili sva aktivna tr\u017ei\u0161ta i sve aktivne kategorije proizvoda.",
+            "p3": "Trenutno smo aktivni u Skandinaviji, ali uvek tra\u017eimo vi\u0161e partnera i u razvijenim tr\u017ei\u0161tima i u onim novim. ",
+            "p4": "Da stupite u kontakt sa nama molimo {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Kontaktirajte nas ovde",
+        "seemoredetails": "vidite vi\u0161e detalja ovde",
+        "readmore": "pro\u010ditajte vi\u0161e "
+    },
+    "locale": {
+        "jp": "Japanski"
+    }
+}

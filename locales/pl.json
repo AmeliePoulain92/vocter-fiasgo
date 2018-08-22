@@ -1,0 +1,98 @@
+{
+    "Ukranian": "Ukrai\u0144ski",
+    "Polish": "Polski",
+    "Greek": "Grecki",
+    "settings": {
+        "menu": "Ustawienia",
+        "country": "Kraj",
+        "currency": "Waluta",
+        "matching": "Przepraszamy, brak opinii o meczach"
+    },
+    "subscription": {
+        "input": "Wprowadź swój email",
+        "submit": "Zatwierdź",
+        "success": "Subskrypcja została potwierdzona",
+        "close": "Spróbuj ponownie"
+    },
+    "home": {
+        "title": "Uproszczone zakupy",
+        "subtitle": "Opanowali\u015bmy technologi\u0119",
+        "subtitle2": "wi\u0119c nie musisz tego robi\u0107"
+    },
+    "menu": {
+        "buyers": "Kupuj\u0105cy",
+        "affiliates": "Partnerzy",
+        "networks": "Sieci",
+        "contact": "Kontakt"
+    },
+    "locales": {
+        "en": "Angielski",
+        "zh-CN": "Uproszczony Chi\u0144ski",
+        "es": "Hiszpa\u0144ski",
+        "fr": "Francuski",
+        "pt-BR": "Portugalski",
+        "ru": "Rosyjski",
+        "ar": "Arabski",
+        "ko": "Korea\u0144ski",
+        "it": "W\u0142oski",
+        "nl": "Holenderski",
+        "fa": "Perski",
+        "sv": "Szwedzki",
+        "no": "Norweski",
+        "da": "Du\u0144ski",
+        "pa": "Pend\u017cabski",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengalski",
+        "sr": "Serbski"
+    },
+    "article": {
+        "contact": {
+            "h1": "Skontaktuj si\u0119",
+            "p1": "Kochamy sprz\u0119\u017cenie zwrotne i doceniamy Twoj\u0105 opini\u0119, czy u\u017cywasz, wsp\u00f3\u0142pracujesz, lubisz lub nie lubisz Fiasgo.",
+            "p2": "Je\u015bli jeste\u015b konsumentem, skontaktuj si\u0119 z nami przez {mail}",
+            "p3": "Je\u015bli jeste\u015b firm\u0105, kt\u00f3ra ma powi\u0105zanie z partnerem lub jeste\u015b cz\u0119\u015bci\u0105 sieci partnerskiej, skontaktuj si\u0119 z nami poprzez e-mail {mail}"
+        },
+        "affiliates": {
+            "h1": "Partnerzy",
+            "p1": "Fiasgo wsp\u00f3\u0142pracuje z oddzia\u0142ami z ca\u0142ego \u015bwiata. Naszym zadaniem jest gromadzenie najwi\u0119kszego wyboru elektroniki u\u017cytkowej, aby przynie\u015b\u0107 korzy\u015bci klientom, czyni\u0105c ich zakupy p\u0142ynniejszymi. Mog\u0105 kupowa\u0107 z wi\u0119ksz\u0105 pewno\u015bci\u0105 i spodziewa\u0107 si\u0119 lepszych wynik\u00f3w dla zakupionych produkt\u00f3w, poniewa\u017c ich potrzeby zosta\u0142y sprawdzone i dopasowane do specyfikacji technicznej tego, czego szukaj\u0105.",
+            "p2": "Kr\u00f3tko m\u00f3wi\u0105c: oferujemy poziom obs\u0142ugi klienta i zrozumienia, kt\u00f3rego e-commerce pozbawia klient\u00f3w, w por\u00f3wnaniu z fizycznymi sklepami.",
+            "p3": "Dostarczamy obs\u0142ug\u0119 klienta w handlu elektronicznym w spos\u00f3b niezauwa\u017cony w innych miejscach. Poprzez zrozumienie potrzeb konsument\u00f3w mo\u017cemy zoptymalizowa\u0107 i przyspieszy\u0107 proces, za pomoc\u0105 kt\u00f3rego konsument jest przekszta\u0142cany z potencjalnego nabywcy do rzeczywistego klienta. Poprzez wiedz\u0119 i wskaz\u00f3wki dostarczone przez nasz\u0105 platform\u0119, zaufanie konsument\u00f3w do zakupu b\u0119dzie wy\u017csze, co spowoduje ni\u017csze stopy zwrotu i wy\u017csz\u0105 satysfakcj\u0119 klient\u00f3w.",
+            "p4": "To potr\u00f3jne zwyci\u0119stwo \u2014 zar\u00f3wno dla klienta, dla was i dla nas samych.",
+            "h2": "Dane od partner\u00f3w:",
+            "p5": "Szczycimy si\u0119 najbardziej aktualnymi danymi. Co nie otrzymujemy od naszych sieci partnerskich, zbieramy od sprzedawc\u00f3w detalicznych. Aby upewni\u0107 si\u0119, \u017ce wszystkie dane s\u0105 prawid\u0142owe, indeksujemy strony internetowe w celu zapewnienia najbardziej poprawnych informacji o produktach, cenach, zdj\u0119ciach itp. Wykonujemy to w spos\u00f3b szybki, prosty i bezpieczny. Zeskrobujemy tylko informacje, kt\u00f3rej potrzebujemy, aby zoptymalizowa\u0107 rzeczywist\u0105 sprzeda\u017c produkt\u00f3w.",
+            "p6": "Interesujesz si\u0119 wsp\u00f3\u0142prac\u0105 z Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Uproszczone zakupy",
+            "p1": "M\u00f3wi si\u0119, \u017ce aby naprawd\u0119 opanowa\u0107 umiej\u0119tno\u015bci, musisz sp\u0119dzi\u0107 10.000 godzin rozwoju. Je\u015bli to zrobisz, {0}. Je\u015bli to poj\u0119cie jest prawdziwe i naprawd\u0119 trzeba po\u015bwi\u0119ci\u0107 tyle czasu na co\u015b, aby sta\u0107 si\u0119 ekspertem, warto rozwa\u017cy\u0107, jak mo\u017cesz sp\u0119dzi\u0107 czas m\u0105drze.",
+            "p1link1": "staniesz si\u0119 w\u015br\u00f3d najlepszych",
+            "p2": "W Fiasgo staramy si\u0119 upewni\u0107, \u017ce nie marnujesz czasu. To nasza misja, wizja i pasja do zakupu towar\u00f3w konsumpcyjnych nie tylko \u0142atwiejsze, ale i bardziej przyst\u0119pne, wiarygodne i zrozumia\u0142e. Zakup nowej telewizji, komputera lub innych urz\u0105dze\u0144 mo\u017ce zaj\u0105\u0107 wiele godzin bada\u0144 tylko po to, aby zrozumie\u0107 podstawowe funkcje, kt\u00f3re s\u0105 obj\u0119te terminami technicznymi, kt\u00f3re nie s\u0105 odpowiednie dla zwyk\u0142ych \u015bmiertelnik\u00f3w.",
+            "p3": "Wi\u0119c dlaczego sp\u0119dzaj\u0105 wiele godzin na badaniach z myl\u0105cymi high-tech i sprzecznych lub wprowadzaj\u0105cych w b\u0142\u0105d porad\u0105 w beznadziejnej pr\u00f3bie podj\u0119cia najlepszej decyzji, co kupi\u0107, je\u015bli jest lepszy spos\u00f3b?",
+            "p4": "Zrobimy dla Ciebie badania.",
+            "h2": "Tech bez \u017cargonu technologicznego",
+            "p5": "Stworzyli\u015bmy platform\u0119, kt\u00f3ra eliminuje najistotniejsze i najostrzejsze wymagania techniczne zwi\u0105zane z procesem wyszukiwania produktu, kt\u00f3ry odpowiada Twoim potrzebam, wymaganiom i bud\u017cetowi. U\u017cywamy poj\u0119\u0107 \u015bwieckich, aby zrozumie\u0107 Twoje potrzeby i przet\u0142umaczy\u0107 je na bardzo specyficzne wymagania, wi\u0119c nie musisz tego robi\u0107. Opieraj\u0105c si\u0119 na Twoich wymaganiach, co chcesz kupi\u0107, zaprezentujemy Tobie kilka produkt\u00f3w, kt\u00f3re wed\u0142ug algorytm\u00f3w najlepiej odpowiadaj\u0105 Twoim potrzebom. Wy\u015bwietlamy i wsp\u00f3\u0142pracujemy tylko z firmami certyfikowanymi. Nie przejmuj si\u0119 oszustwami lub phishing, poniewa\u017c jeste\u015bmy bardzo ostro\u017cni, co do tego, co s\u0105 u\u017cywane przez sprzedawc\u00f3w detalicznych.",
+            "p6": "J\u0119zyk nie powinien by\u0107 barier\u0105 w podejmowaniu w\u0142a\u015bciwej decyzji zakupu. Dlatego chcemy, aby zakupy techniki by\u0142y bez technologichnego \u017cargonu. Nawet pracujemy nad dodawaniem kolejnych j\u0119zyk\u00f3w ka\u017cdego miesi\u0105ca, aby upewni\u0107 si\u0119, \u017ce j\u0119zyk nigdy nie jest przeszkod\u0105 w znalezieniu kolejnego zakupu.",
+            "h3": "Bezp\u0142atnie i bezstronnie",
+            "p7": "Nasza us\u0142uga jest bezp\u0142atna!",
+            "p8": "W jaki spos\u00f3b?",
+            "p9": "Sklepy, oferowane przez nas, daj\u0105 nam procent z ich sprzeda\u017cy. Ta kwota NIE jest dodawana do Twoich cen produkt\u00f3w. Nie przyjmujemy pieni\u0119dzy na promowanie konkretnych produkt\u00f3w. Nie musimy zach\u0119ca\u0107 do sprzeda\u017cy konkretnego produktu w pomocy Ci znale\u017a\u0107 najlepsze dopasowanie do Twoich potrzeb. Widzimy Ciebie, naszego u\u017cytkownika, jako naszego klienta, a nie korporacji i sprzedawc\u00f3w detalicznych, kt\u00f3rzy sprzedaj\u0105 produkty. Mo\u017cesz na nas liczy\u0107!",
+            "p10": "W razie pyta\u0144, obaw, pomys\u0142\u00f3w lub og\u00f3lnej informacji zwrotnej prosimy nie waha\u0107 si\u0119 {0}"
+        },
+        "networks": {
+            "h1": "Sieci partnerskie",
+            "p1": "Fiasgo wsp\u00f3\u0142pracuje z globalnymi sieciami partnerskimi i zawsze poszukuje mo\u017cliwo\u015bci rozwoju z wi\u0119ksz\u0105 liczb\u0105 partner\u00f3w. Pracujemy globalnie na wszystkich rynkach we wszystkich j\u0119zykach przez ca\u0142y czas. Naszym celem jest elektronika konsumencka, na przyk\u0142ad komputery, telewizory, zmywarki, telefony kom\u00f3rkowe i tak dalej. Pracujemy nad rozszerzeniem naszych rynk\u00f3w i asortymentu tak szybko, jak pozwala nasz rozw\u00f3j.",
+            "p2": "Ruch jest generowany w witrynie Fiasgo za po\u015brednictwem bezpo\u015brednich i \u015bwiadomych reklam i biuletyn\u00f3w. Zoptymalizujemy nasz dziennik w celu dopasowania wszystkich aktywnych rynk\u00f3w i wszystkich aktywnych kategorij produkt\u00f3w.",
+            "p3": "Obecnie pracujemy w Skandynawii, ale zawsze szukamy wi\u0119cej partner\u00f3w zar\u00f3wno na znanych rynkach i na nowych.",
+            "p4": "Aby si\u0119 z nami skontaktowa\u0107, {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Skontaktuj si\u0119 z nami tutaj",
+        "seemoredetails": "wi\u0119cej szczeg\u00f3\u0142\u00f3w tutaj",
+        "readmore": "Czytaj wi\u0119cej"
+    },
+    "locale": {
+        "jp": "Japo\u0144ski"
+    }
+}

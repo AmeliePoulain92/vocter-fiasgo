@@ -1,0 +1,87 @@
+{
+    "home": {
+        "title": "\u0a16\u0a30\u0a40\u0a26\u0a26\u0a3e\u0a30\u0a40 \u0a06\u0a38\u0a3e\u0a28 \u0a39\u0a4b\u0a23\u0a3e \u0a1a\u0a3e\u0a39\u0a40\u0a26\u0a3e \u0a39\u0a48",
+        "subtitle": "We mastered technology",
+        "subtitle2": "so you don't have to",
+        "intro": "Lorem ipsum dolor sit amet lorem ipsum dolor"
+    },
+    "menu": {
+        "buyers": "Buyers",
+        "affiliates": "Affiliates",
+        "networks": "Networks",
+        "contact": "Contact"
+    },
+    "locales": {
+        "en": "\u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a3c\u0a40",
+        "zh-CN": "\u0a1a\u0a40\u0a28\u0a40",
+        "es": "\u0a38\u0a2a\u0a48\u0a28\u0a3f\u0a38\u0a3c",
+        "fr": "\u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a1a",
+        "pt-BR": "\u0a2a\u0a41\u0a30\u0a24\u0a17\u0a3e\u0a32\u0a40",
+        "ru": "\u0a30\u0a42\u0a38\u0a40",
+        "ar": "\u0a05\u0a30\u0a2c\u0a40",
+        "ko": "\u0a15\u0a4b\u0a30\u0a40\u0a06\u0a08",
+        "it": "\u0a07\u0a24\u0a3e\u0a32\u0a35\u0a40",
+        "nl": "\u0a21\u0a71\u0a1a",
+        "fa": "\u0a2b\u0a3c\u0a3e\u0a30\u0a38\u0a40",
+        "sv": "\u0a38\u0a35\u0a40\u0a21\u0a28\u0a40",
+        "no": "\u0a28\u0a3e\u0a30\u0a35\u0a47\u0a1c\u0a40\u0a05\u0a28",
+        "da": "\u0a21\u0a48\u0a28\u0a3f\u0a38\u0a3c",
+        "pa": "\u0a2c\u0a70\u0a17\u0a3e\u0a32\u0a40",
+        "hi": "\u0a39\u0a3f\u0a70\u0a26\u0a40",
+        "af": "\u0a05\u0a2b\u0a30\u0a40\u0a15\u0a40",
+        "bn": "\u0a2c\u0a70\u0a17\u0a3e\u0a32\u0a40",
+        "sr": "\u0a38\u0a30\u0a2c\u0a40\u0a06\u0a08"
+    },
+    "article": {
+        "contact": {
+            "h1": "Contact",
+            "p1": "We love feedback and would appreciate your opinion whether you use, work with, like or dislike Fiasgo.",
+            "p2": "If you are a consumer, please contact us via {mail}",
+            "p3": "If you are a company that has affiliate linking or are part of an affiliate network, please contact us at {mail}"
+        },
+        "affiliates": {
+            "h1": "Affiliates",
+            "p1": "Fiasgo works with affiliates from all over the world. It is our mission to gather the largest selection of consumer electronics to benefit the costumers and making their purchasing smoother. They can buy with more confidence and expect better results for the products they purchase, as their needs have been screened and matched with technical specifications of what they are looking to buy.",
+            "p2": "In brief: We offer a level of customer-service and understanding that e-commerce has deprived the customers from, compared to brick and mortar stores.",
+            "p3": "We bring customer service into e-commerce in a way not seen anywhere else. By understanding the consumer\u2019s needs, we can optimize and speed up the process through which a consumer is converted from a potential buyer to an actual customer. Through the expertise guidance of our platform the consumer\u2019s purchase confidence will be higher resulting in a lower return rate and higher customer satisfaction.",
+            "p4": "It\u2019s a win-win-win, for both the customer, you and us.",
+            "h2": "Data from the affiliates:",
+            "p5": "We pride ourselves in having the most updated data. What we don\u2019t get from our affiliate networks, we gather from the retailers. To make sure that we have the correct data at all times we crawl websites in order to assure correct information on products, prices, pictures etc. We do this in a quick, simple and safe manner. We only scrape information we need to optimize the actual sale of the products.",
+            "p6": "Interested in cooperating with Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Simplified shopping",
+            "p1": "It is said that to truly master a skill you must spend 10.000 hours developing it. If you do that {0}. If this concept is true and you really need to spend that much time on something to become an expert, you might want to consider how you can spend your time more wisely.",
+            "p1link1": "you will become among the best",
+            "p2": "At Fiasgo we strive to make sure you don\u2019t your waste time. It is our mission, vision and passion to make the purchase of consumer goods not only easier but also much more approachable, reliable and understandable. Buying a new television, computer or other devices can take hours of research just to understand the basic functionalities that are covered in technical terms not suitable for mere mortals to fully grasp.",
+            "p3": "So why spend hours on research with confusing high-tech terms and conflicting or even misleading advice in a hopeless attempt to make the best decision on what to buy, when there is a better way?",
+            "p4": "Let us do to research for you.",
+            "h2": "Tech without the tech jargon",
+            "p5": "We have created a platform that eliminates hardcore tech savvy terms and requirements from the process of finding the product that matches your specific needs, requirements and budget. We are using layman terms to understand your needs and translate those into highly specific requirements, so you don\u2019t have to. Based on your requirements for what you are looking to buy we present you with a handful of products that our algorithms find to fit your needs the best. We only show and work with companies that we think you should trust. Don\u2019t worry about hitting sites that are not certified dealers. We only work with people we would trust ourselves! ",
+            "p6": "Language should never be a barrier in making the right purchase decision. That is why we want to enable tech shopping without the tech jargon. We even work on adding more languages each month, to make sure that language is never an obstacle for finding your next purchase.",
+            "h3": "Free of charge and unbiased",
+            "p7": "Our service is free of charge!",
+            "p8": "\u0a07\u0a38 \u0a28\u0a42\u0a70 \u0a39\u0a48?",
+            "p9": "The retailers of the products we suggest give us a percentage from their sales. The amount is NOT added to your product prices. Neither do we accept money to promote specific products. We have no incentive to sell you a certain product, only to help you find what suits your needs best. We see you, our user, as our customer - not the corporations and retailers that sell the products. We got your back!",
+            "p10": "If you have any questions, concerns, ideas or general feedback please don\u2019t hesitate to {0}"
+        },
+        "networks": {
+            "h1": "Affiliate networks",
+            "p1": "Fiasgo is working with global affiliate networks and is always looking for expansion opportunities with more partners. We work globally in all markets, in all languages at all time. Our focus is consumer electronic goods such as computers, televisions, dishwashers, mobile phones and so forth. We are working to expand our markets and our assortment as fast as our development allows.",
+            "p2": "Traffic is generated to the Fiasgo site through direct- and brand awareness advertisements and newsletters. We optimize our SEO daily to match all active markets and all active product categories.",
+            "p3": "We are currently active in Scandinavia, but are always looking for more partners in both established markets and new ones.",
+            "p4": "To get in touch with us please {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Contact us here",
+        "seemoredetails": "see more details here",
+        "readmore": "Read more"
+    },
+    "locale": {
+        "en": "\u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a3c\u0a40",
+        "jp": "\u0a1c\u0a3e\u0a2a\u0a3e\u0a28\u0a40",
+        "fr": "\u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a1a",
+        "ru": "\u0a30\u0a42\u0a38\u0a40"
+    }
+}

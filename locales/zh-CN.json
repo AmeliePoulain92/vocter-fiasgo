@@ -1,0 +1,183 @@
+{
+    "menu": {
+        "settings": "\u8bbe\u7f6e",
+        "buyers": "\u4e70\u4e3b",
+        "affiliates": "\u5173\u8054\u516c\u53f8",
+        "networks": "\u7f51\u7edc",
+        "contact": "\u8054\u7cfb\u6211\u4eec"
+    },
+    "country": {
+        "mx": "\u58a8\u897f\u54e5",
+        "ca": "\u52a0\u62ff\u5927",
+        "us": "\u7f8e\u56fd",
+        "au": "\u6fb3\u5927\u5229\u4e9a",
+        "de": "\u5fb7\u56fd",
+        "in": "\u5370\u5ea6",
+        "za": "\u5357\u975e",
+        "bd": "\u5b5f\u52a0\u62c9\u56fd",
+        "jp": "\u65e5\u672c",
+        "pt": "\u8461\u8404\u7259",
+        "ru": "\u8461\u8404\u7259",
+        "ae": "\u963f\u62c9\u4f2f\u8054\u5408\u914b\u957f\u56fd",
+        "kr": "\u97e9\u56fd",
+        "it": "\u610f\u5927\u5229",
+        "nl": "\u8377\u5170",
+        "se": "\u745e\u5178",
+        "no": "\u632a\u5a01",
+        "dk": "\u4e39\u9ea6",
+        "sr": "\u585e\u5c14\u7ef4\u4e9a",
+        "ph": "\u83f2\u5f8b\u5bbe",
+        "ua": "\u4e4c\u514b\u5170",
+        "pl": "\u6ce2\u5170",
+        "gr": "\u5e0c\u814a",
+        "gb": "\u82f1\u56fd",
+        "cn": "\u4e2d\u56fd",
+        "es": "\u897f\u73ed\u7259",
+        "fr": "\u6cd5\u56fd"
+    },
+    "error": {
+        "nomatch": "\u5bf9\u4e0d\u8d77\uff0c\u6ca1\u6709\u5339\u914d\uff01"
+    },
+    "settings": {
+        "country": "\u56fd\u5bb6",
+        "currency": "\u8d27\u5e01"
+    },
+    "subscription": {
+        "input": "\u8f93\u5165\u4f60\u7684\u7535\u5b50\u90ae\u7bb1",
+        "submit": "\u63d0\u4ea4"
+    },
+    "page": {
+        "questions": {
+            "h1": "\u95ee\u9898"
+        }
+    },
+    "nps": {
+        "feedback": {
+            "notext": "\u4e0d\u7528\u4e86\uff0c\u8c22\u8c22",
+            "button": "\u53d1\u9001\u53cd\u9988",
+            "text": "\u8c22\u8c22\u3002\u4f60\u60f3\u8be6\u7ec6\u8bf4\u660e\u4f60\u7684\u7b54\u6848\u5417?",
+            "done": "\u611f\u8c22\u60a8\u7684\u53cd\u9988\u610f\u89c1!"
+        },
+        "question": {
+            "text": "\u60a8\u8ba4\u4e3a\u8be5\u4ea7\u54c1\u4e0e\u60a8\u7684\u9700\u6c42\u76f8\u5339\u914d\u7684\u7a0b\u5ea6\u5982\u4f55?",
+            "little": "\u5f88\u5c11",
+            "alot": "\u975e\u5e38"
+        }
+    },
+    "productpage": {
+        "buybutton": "\u53bb\u5356\u5bb6",
+        "sellers": "\u5356\u5bb6",
+        "instock": "\u6709\u73b0\u8d27?",
+        "price": "\u4ef7\u94b1",
+        "buy": "\u8d2d\u4e70"
+    },
+    "question": {
+        "prioritize": {
+            "title": "\u4f18\u5148",
+            "text": "\u4f60\u5982\u4f55\u4f18\u5148\u8003\u8651\u4ee5\u4e0b\u5185\u5bb9?",
+            "screensize": "\u5c4f\u5e55\u5c3a\u5bf8",
+            "audioquality": "\u97f3\u9891\u8d28\u91cf",
+            "imagequality": "\u753b\u9762\u8d28\u91cf"
+        },
+        "quality": "\u8d28\u91cf",
+        "yes": "\u662f",
+        "no": "\u6ca1\u6709",
+        "importance": {
+            "title": "\u91cd\u8981\u6027",
+            "text": "\u4f60\u89c9\u5f97\u6700\u91cd\u8981\u7684\u662f\u4ec0\u4e48?"
+        },
+        "watchingtv": {
+            "title": {
+                "": "\u770b\u7535\u89c6",
+                "5hours": "5\u5c0f\u65f6\u6216\u66f4\u5c11",
+                "10hours": "10\u4e2a\u5c0f\u65f6",
+                "20hours": "20\u4e2a\u5c0f\u65f6",
+                "40hours": "40\u5c0f\u65f6",
+                "60hours": "60\u5c0f\u65f6\u4ee5\u4e0a"
+            },
+            "text": "\u4f60\u6bcf\u5468\u770b\u7535\u89c6\u591a\u5c11\u5c0f\u65f6?"
+        },
+        "smarttv": {
+            "title": "\u667a\u80fd\u7535\u89c6",
+            "text": "\u4f60\u66f4\u559c\u6b22\u667a\u80fd\u7535\u89c6\u5417?"
+        },
+        "price": "\u4ef7\u94b1"
+    },
+    "locales": {
+        "sr": "\u585e\u5c14\u7ef4\u4e9a",
+        "ph": "\u83f2\u5f8b\u5bbe",
+        "ur": "\u4e4c\u514b\u5170",
+        "pl": "\u6ce2\u5170\u8bed",
+        "gr": "\u5e0c\u814a\u8bed",
+        "en": "\u82f1\u8bed",
+        "zh-CN": "\u4e2d\u6587",
+        "es": "\u897f\u73ed\u7259\u8bed",
+        "fr": "\u6cd5\u56fd",
+        "pt-BR": "\u8461\u8404\u7259\u8bed",
+        "ru": "\u4fc4\u8bed",
+        "ar": "\u963f\u62c9\u4f2f",
+        "ko": "\u671d\u9c9c\u7684",
+        "it": "\u610f\u5927\u5229",
+        "nl": "\u8377\u5170\u4eba",
+        "fa": "\u6ce2\u65af\u8bed",
+        "sv": "\u745e\u5178",
+        "no": "\u632a\u5a01",
+        "da": "\u4e39\u9ea6",
+        "pa": "\u65c1\u906e\u666e",
+        "hi": "\u5370\u5730\u8bed",
+        "af": "\u5357\u975e\u8377\u5170\u8bed",
+        "bn": "\u5b5f\u52a0\u62c9",
+        "jp": "\u65e5\u672c"
+    },
+    "home": {
+        "title": "\u7b80\u5316\u8d2d\u7269",
+        "subtitle": "\u6211\u4eec\u638c\u63e1\u4e86\u6280\u672f",
+        "subtitle2": "\u6240\u4ee5\u4f60\u4e0d\u5fc5\u8fd9\u6837\u505a"
+    },
+    "article": {
+        "contact": {
+            "h1": "\u8054\u7cfb\u6211\u4eec",
+            "p1": "\u6211\u4eec\u559c\u6b22\u53cd\u9988\uff0c\u5e76\u4e14\u975e\u5e38\u611f\u8c22\u60a8\u7684\u610f\u89c1\uff0c\u65e0\u8bba\u60a8\u4f7f\u7528\uff0c\u4f7f\u7528\uff0c\u559c\u6b22\u8fd8\u662f\u4e0d\u559c\u6b22Fiasgo\u3002",
+            "p2": "\u5982\u679c\u60a8\u662f\u6d88\u8d39\u8005\uff0c\u8bf7\u901a\u8fc7 {mail} \u4e0e\u6211\u4eec\u8054\u7cfb",
+            "p3": "If you are a company that has affiliate linking or are part of an affiliate network, please contact us at {mail}"
+        },
+        "affiliates": {
+            "h1": "\u5173\u8054\u516c\u53f8",
+            "p1": "Fiasgo works with affiliates from all over the world. It is our mission to gather the largest selection of consumer electronics to benefit the customers by making their purchasing smoother. They can buy with more confidence and expect better results for the products they purchase, as their needs have been screened and matched with technical specifications of what they are looking to buy.",
+            "p2": "In brief: We offer a level of customer-service and understanding that e-commerce has deprived the customers from, compared to brick and mortar stores.",
+            "p3": "We bring customer service into e-commerce in a way not seen done anywhere else. By understanding the consumer\u2019s needs, we can optimize and speed up the process through which a consumer is converted from a potential buyer to an actual customer. Through the expertise and guidance given by our platform the consumer\u2019s purchase confidence will be higher resulting in a lower return rate and higher customer satisfaction.",
+            "p4": "It\u2019s a win-win-win, for both the customer and yourself as well as ourselves.",
+            "h2": "\u6765\u81ea\u9644\u5c5e\u673a\u6784\u7684\u6570\u636e:",
+            "p5": "We pride ourselves in having the most up to date data. What we don\u2019t get from our affiliate networks, we gather from the retailers themselves. To make sure that we have the correct data at all times we crawl websites in order to assure the most correct information on products, prices, pictures etc. We do this in a quick, simple and safe manner. We only scrape information we need to optimize the actual sale of the products.",
+            "p6": "\u6709\u5174\u8da3\u4e0eFiasgo\u5408\u4f5c? {0}\u3002"
+        },
+        "buyers": {
+            "h1": "\u7b80\u5316\u8d2d\u7269",
+            "p1": "It is said that to truly master a skill you must spend 10.000 hours developing it. If you do that {0}. If this concept is true and you really need to spend that much time on something to become an expert, you might want to consider how you can spend your time more wisely.",
+            "p1link1": "you will become among the best",
+            "p2": "At Fiasgo we strive to make sure you don\u2019t waste your time. It is our mission, vision, and passion to make the purchase of consumer goods not only easier but also much more approachable, reliable and understandable. Buying a new television, computer or other devices can take hours of research just to understand the basic functionalities that are covered in technical terms not suitable for mere mortals to fully grasp.",
+            "p3": "So why spend hours on research with confusing high-tech terms and conflicting or even misleading advice in a hopeless attempt to make the best decision on what to buy, when there is a better way?",
+            "p4": "\u8ba9\u6211\u4eec\u6765\u4e3a\u4f60\u7814\u7a76\u3002",
+            "h2": "\u79d1\u6280\u6ca1\u6709\u79d1\u6280\u672f\u8bed",
+            "p5": "We have created a platform that eliminates hardcore tech savvy terms and requirements from the process of finding the product that matches your specific needs, requirements and budget. We are using layman terms to understand your needs and translate those into highly specific requirements, so you don\u2019t have to. Based on your requirements for what you are looking to buy we present you with a handful of products that our algorithms find to best suit your needs. We only display and work with companies that are certified. Don't worry about being scammed or phished as we are very cautious as to what retailers are used.",
+            "p6": "Language should never be a barrier in making the right purchase decision. That is why we want to enable tech shopping without the tech jargon. We even work on adding more languages each month, to make sure that language is never an obstacle for finding your next purchase.",
+            "h3": "\u514d\u8d39\u4e14\u65e0\u504f\u89c1",
+            "p7": "\u6211\u4eec\u7684\u670d\u52a1\u662f\u514d\u8d39\u7684\uff01",
+            "p8": "\u600e\u4e48\u6837?",
+            "p9": "The retailers of the products we suggest give us a percentage of their sales. This amount is NOT added to your product prices. Neither do we accept money to promote specific products. We have no incentive to sell you a certain product, only to help you find what suits your needs best. We see you, our user, as our customer - not the corporations and retailers that sell the products. We have your back!",
+            "p10": "If you have any questions, concerns, ideas or general feedback please don\u2019t hesitate to {0}"
+        },
+        "networks": {
+            "h1": "\u52a0\u76df\u7f51\u7edc",
+            "p1": "Fiasgo is working with global affiliate networks and is always looking for expansion opportunities with more partners. We work globally in all markets, in all languages at all times. Our focus is consumer electronic goods such as computers, televisions, dishwashers, mobile phones and so forth. We are working to expand our markets and our assortment as fast as our development allows.",
+            "p2": "Traffic is generated to the Fiasgo site through direct- and brand awareness advertisements and newsletters. We optimize our SEO daily to match all active markets and all active product categories.",
+            "p3": "We are currently active in Scandinavia, but are always looking for more partners in both established markets and new ones.",
+            "p4": "\u8981\u4e0e\u6211\u4eec\u53d6\u5f97\u8054\u7cfb, \u8bf7 {0}"
+        }
+    },
+    "actions": {
+        "contactus": "\u5728\u8fd9\u91cc\u8054\u7cfb\u6211\u4eec",
+        "seemoredetails": "\u5728\u8fd9\u91cc\u770b\u5230\u66f4\u591a\u7ec6\u8282",
+        "readmore": "\u9605\u8bfb\u66f4\u591a"
+    }
+}

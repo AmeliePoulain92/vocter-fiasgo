@@ -1,0 +1,183 @@
+{
+    "menu": {
+        "settings": "Settings",
+        "buyers": "Buyers",
+        "affiliates": "Affiliates",
+        "networks": "Networks",
+        "contact": "Contact"
+    },
+    "country": {
+        "mx": "Mexico",
+        "ca": "Canada",
+        "us": "United States Of America",
+        "au": "Australia",
+        "de": "Germany",
+        "in": "India",
+        "za": "South Africa",
+        "bd": "Bangladesh",
+        "jp": "Japan",
+        "pt": "Portugal",
+        "ru": "Russia",
+        "ae": "United Arab Emirates",
+        "kr": "Korea",
+        "it": "Italy",
+        "nl": "Netherlands",
+        "se": "Sweden",
+        "no": "Norway",
+        "dk": "Denmark",
+        "sr": "Serbia",
+        "ph": "Philippines",
+        "ua": "Ukraine",
+        "pl": "Poland",
+        "gr": "Greece",
+        "gb": "United Kingdom",
+        "cn": "China",
+        "es": "Spain",
+        "fr": "France"
+    },
+    "error": {
+        "nomatch": "Sorry, no matches!"
+    },
+    "settings": {
+        "country": "Country",
+        "currency": "Currency"
+    },
+    "subscription": {
+        "input": "Enter your email",
+        "submit": "Submit"
+    },
+    "page": {
+        "questions": {
+            "h1": "Questions"
+        }
+    },
+    "nps": {
+        "feedback": {
+            "notext": "No thanks",
+            "button": "Send feedback",
+            "text": "Thank you. Would you like to elaborate your answer?",
+            "done": "Thank you for your feedback!"
+        },
+        "question": {
+            "text": "How well did you think the product matches your needs?",
+            "little": "Very little",
+            "alot": "Very much"
+        }
+    },
+    "productpage": {
+        "buybutton": "Go to seller",
+        "sellers": "Sellers",
+        "instock": "In stock?",
+        "price": "Price",
+        "buy": "Buy"
+    },
+    "question": {
+        "prioritize": {
+            "title": "Prioritize",
+            "text": "How would you prioritize the following?",
+            "screensize": "Screen size",
+            "audioquality": "Audio quality",
+            "imagequality": "Image quality"
+        },
+        "quality": "Quality",
+        "yes": "Yes",
+        "no": "No",
+        "importance": {
+            "title": "Importance",
+            "text": "What is most important to you?"
+        },
+        "watchingtv": {
+            "title": {
+                "": "Watching TV",
+                "5hours": "5 hours or less",
+                "10hours": "10 hours",
+                "20hours": "20 hours",
+                "40hours": "40 hours",
+                "60hours": "60 hours or more"
+            },
+            "text": "How many hours of TV do you watch per week?"
+        },
+        "smarttv": {
+            "title": "Smart TV",
+            "text": "Would you prefer a Smart TV?"
+        },
+        "price": "Price"
+    },
+    "locales": {
+        "sr": "Serbian",
+        "ph": "Filipino",
+        "ur": "Ukrainian",
+        "pl": "Polish",
+        "gr": "Greek",
+        "en": "English",
+        "zh-CN": "Chinese simplified",
+        "es": "Spanish",
+        "fr": "French",
+        "pt-BR": "Portuguese",
+        "ru": "Russian",
+        "ar": "Arabic",
+        "ko": "Korean",
+        "it": "Italian",
+        "nl": "Dutch",
+        "fa": "Persian",
+        "sv": "Swedish",
+        "no": "Norwegian",
+        "da": "Danish",
+        "pa": "Punjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengali",
+        "jp": "Japanese"
+    },
+    "home": {
+        "title": "Simplified shopping",
+        "subtitle": "We mastered technology",
+        "subtitle2": "so you don't have to"
+    },
+    "article": {
+        "contact": {
+            "h1": "Contact",
+            "p1": "We love feedback and would appreciate your opinion whether you use, work with, like or dislike Fiasgo.",
+            "p2": "If you are a consumer, please contact us via {mail}",
+            "p3": "If you are a company that has affiliate linking or are part of an affiliate network, please contact us at {mail}"
+        },
+        "affiliates": {
+            "h1": "Affiliates",
+            "p1": "Fiasgo works with affiliates from all over the world. It is our mission to gather the largest selection of consumer electronics to benefit the customers by making their purchasing smoother. They can buy with more confidence and expect better results for the products they purchase, as their needs have been screened and matched with technical specifications of what they are looking to buy.",
+            "p2": "In brief: We offer a level of customer-service and understanding that e-commerce has deprived the customers from, compared to brick and mortar stores.",
+            "p3": "We bring customer service into e-commerce in a way not seen done anywhere else. By understanding the consumer\u2019s needs, we can optimize and speed up the process through which a consumer is converted from a potential buyer to an actual customer. Through the expertise and guidance given by our platform the consumer\u2019s purchase confidence will be higher resulting in a lower return rate and higher customer satisfaction.",
+            "p4": "It\u2019s a win-win-win, for both the customer and yourself as well as ourselves.",
+            "h2": "Data from the affiliates:",
+            "p5": "We pride ourselves in having the most up to date data. What we don\u2019t get from our affiliate networks, we gather from the retailers themselves. To make sure that we have the correct data at all times we crawl websites in order to assure the most correct information on products, prices, pictures etc. We do this in a quick, simple and safe manner. We only scrape information we need to optimize the actual sale of the products.",
+            "p6": "Interested in cooperating with Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Simplified shopping",
+            "p1": "It is said that to truly master a skill you must spend 10.000 hours developing it. If you do that {0}. If this concept is true and you really need to spend that much time on something to become an expert, you might want to consider how you can spend your time more wisely.",
+            "p1link1": "you will become among the best",
+            "p2": "At Fiasgo we strive to make sure you don\u2019t waste your time. It is our mission, vision, and passion to make the purchase of consumer goods not only easier but also much more approachable, reliable and understandable. Buying a new television, computer or other devices can take hours of research just to understand the basic functionalities that are covered in technical terms not suitable for mere mortals to fully grasp.",
+            "p3": "So why spend hours on research with confusing high-tech terms and conflicting or even misleading advice in a hopeless attempt to make the best decision on what to buy, when there is a better way?",
+            "p4": "Let us do to research for you.",
+            "h2": "Tech without the tech jargon",
+            "p5": "We have created a platform that eliminates hardcore tech savvy terms and requirements from the process of finding the product that matches your specific needs, requirements and budget. We are using layman terms to understand your needs and translate those into highly specific requirements, so you don\u2019t have to. Based on your requirements for what you are looking to buy we present you with a handful of products that our algorithms find to best suit your needs. We only display and work with companies that are certified. Don't worry about being scammed or phished as we are very cautious as to what retailers are used.",
+            "p6": "Language should never be a barrier in making the right purchase decision. That is why we want to enable tech shopping without the tech jargon. We even work on adding more languages each month, to make sure that language is never an obstacle for finding your next purchase.",
+            "h3": "Free of charge and unbiased",
+            "p7": "Our service is free of charge!",
+            "p8": "How?",
+            "p9": "The retailers of the products we suggest give us a percentage of their sales. This amount is NOT added to your product prices. Neither do we accept money to promote specific products. We have no incentive to sell you a certain product, only to help you find what suits your needs best. We see you, our user, as our customer - not the corporations and retailers that sell the products. We have your back!",
+            "p10": "If you have any questions, concerns, ideas or general feedback please don\u2019t hesitate to {0}"
+        },
+        "networks": {
+            "h1": "Affiliate networks",
+            "p1": "Fiasgo is working with global affiliate networks and is always looking for expansion opportunities with more partners. We work globally in all markets, in all languages at all times. Our focus is consumer electronic goods such as computers, televisions, dishwashers, mobile phones and so forth. We are working to expand our markets and our assortment as fast as our development allows.",
+            "p2": "Traffic is generated to the Fiasgo site through direct- and brand awareness advertisements and newsletters. We optimize our SEO daily to match all active markets and all active product categories.",
+            "p3": "We are currently active in Scandinavia, but are always looking for more partners in both established markets and new ones.",
+            "p4": "To get in touch with us please {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Contact us here",
+        "seemoredetails": "see more details here",
+        "readmore": "Read more"
+    }
+}

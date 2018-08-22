@@ -1,0 +1,95 @@
+{
+    "settings": {
+        "menu": "Configuraciones",
+        "country": "País",
+        "currency": "Moneda",
+        "matching": "Lo sentimos, no hay opiniones encontradas"
+    },
+    "subscription": {
+        "input": "Introduce tu correo electrónico",
+        "submit": "Enviar",
+        "success": "suscripción confirmada",
+        "close": "Inténtalo de nuevo"
+    },
+    "home": {
+        "title": "Compras simples",
+        "subtitle": "Hemos dominado la tecnolog\u00eda",
+        "subtitle2": "para que tu no tengas que hacerlo"
+    },
+    "menu": {
+        "buyers": "Compradores",
+        "affiliates": "Afiliados",
+        "networks": "Redes",
+        "contact": "Cont\u00e1ctanos"
+    },
+    "locales": {
+        "en": "Ingl\u00e9s",
+        "zh-CN": "Chino simplificado",
+        "es": "Espa\u00f1ol",
+        "fr": "Franc\u00e9s",
+        "pt-BR": "Portugu\u00e9s",
+        "ru": "Ruso",
+        "ar": "\u00c1rabe",
+        "ko": "Coreano",
+        "it": "Italiano",
+        "nl": "Alem\u00e1n",
+        "fa": "Persa",
+        "sv": "Sueco",
+        "no": "Noruego",
+        "da": "Dan\u00e9s",
+        "pa": "Panyab\u00ed",
+        "hi": "Hindi",
+        "af": "Africano",
+        "bn": "Bengal\u00ed",
+        "sr": "Serbio"
+    },
+    "article": {
+        "contact": {
+            "h1": "Cont\u00e1ctanos",
+            "p1": "Nos encanta la retroalimentaci\u00f3n y apreciar\u00edamos su opini\u00f3n en caso usted use, trabaje con, as\u00ed como si le gusta o no Fiasgo ",
+            "p2": "Si usted es un cliente, por favor cont\u00e1ctenos v\u00eda {mail}",
+            "p3": "Si usted es una compa\u00f1\u00eda que tiene un enlace de afiliado o es parte de alguna red de afiliados, cont\u00e1ctenos aqu\u00ed {mail}"
+        },
+        "affiliates": {
+            "h1": "Afiliados",
+            "p1": "Fiasgo trabaja con afiliados de todo el mundo. Es nuestra misi\u00f3n reunir la mayor selecci\u00f3n de productos electr\u00f3nicos de consumo para beneficiar a los clientes haciendo su compra m\u00e1s placentera. Nuestros clientes pueden comprar con m\u00e1s confianza y esperar mejores resultados de los productos que compran, ya que sus necesidades han sido seleccionadas y comparadas con las especificaciones t\u00e9cnicas de lo que est\u00e1n buscando para comprar.",
+            "p2": "En resumen: Ofrecemos un nivel de servicio al cliente y comprensi\u00f3n que el comercio electr\u00f3nico ha privado a los clientes de experimentar, en comparaci\u00f3n con las tiendas tradicionales",
+            "p3": "Traemos el servicio al cliente en el comercio electr\u00f3nico de una manera que no se ha hecho en ning\u00fan otro lugar. Al comprender las necesidades del consumidor, podemos optimizar y acelerar el proceso mediante el cual un consumidor se convierte de un comprador potencial a un cliente real. A trav\u00e9s de la experiencia y la orientaci\u00f3n proporcionada por nuestra plataforma, la confianza de compra del consumidor ser\u00e1 mayor, resultando en una menor tasa de devoluci\u00f3n y mayor satisfacci\u00f3n del cliente.",
+            "p4": "Es un gana-gana-gana, tanto para el cliente como para usted y tambi\u00e9n nosotros",
+            "h2": "Informaci\u00f3n de los afiliados:",
+            "p5": "Nos enorgullecemos de tener los datos m\u00e1s actualizados. Lo que no obtenemos de nuestras redes de afiliados, lo obtenemos directamente de los propios minoristas. Para asegurarnos de que tengamos los datos correctos en todo momento, rastreamos sitios web para asegurar la informaci\u00f3n m\u00e1s correcta sobre productos, precios, fotos, etc. Hacemos esto de una manera r\u00e1pida, sencilla y segura. S\u00f3lo agarramos la informaci\u00f3n que necesitamos para optimizar la venta real de los productos.",
+            "p6": "\u00bfInteresado en cooperar con Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Compras simples",
+            "p1": "Se dice que para dominar un habilidad usted debe invertir 10.000 horas desarroll\u00e1ndola. Si usted hace eso {0}. Si este concepto es cierto y realmente necesita invertir tanto tiempo en algo para convertirse en un experto, tal vez quiera considerar c\u00f3mo puede invertir su tiempo m\u00e1s sabiamente.",
+            "p1link1": "usted se convertir\u00e1 en uno de los mejores",
+            "p2": "En Fiasgo nos esforzamos para asegurarnos de que no pierdas tu tiempo. Es nuestra misi\u00f3n, visi\u00f3n y pasi\u00f3n hacer que la compra de bienes de consumo no s\u00f3lo sea m\u00e1s f\u00e1cil sino tambi\u00e9n mucho m\u00e1s accesible, confiable y comprensible. Comprar una nueva televisi\u00f3n, computadora u otros dispositivos puede tomar horas de investigaci\u00f3n s\u00f3lo para entender las funcionalidades b\u00e1sicas que generalmente se muestran en t\u00e9rminos t\u00e9cnicos no aptos para que los mortales puedan comprenderlos completamente.",
+            "p3": "Entonces, \u00bfpor qu\u00e9 pasar horas investigando con confusos t\u00e9rminos de alta tecnolog\u00eda y consejos contradictorios o incluso enga\u00f1osos en un intento desesperado de tomar la mejor decisi\u00f3n sobre qu\u00e9 comprar, cuando hay una mejor manera?",
+            "p4": "D\u00e9jenos investigar por usted",
+            "h2": "Tecnolog\u00eda sin la jerga tecnol\u00f3gica",
+            "p5": "Hemos creado una plataforma que elimina los t\u00e9rminos sofisticados de la tecnolog\u00eda y requisitos del proceso de encontrar el producto que se adapte a sus necesidades espec\u00edficas, requisitos y presupuesto. Estamos usando t\u00e9rminos simples para entender sus necesidades para luego traducirlos en requisitos altamente espec\u00edficos, para que usted no tenga que hacerlo. Basado en sus requisitos para lo que est\u00e1 buscando comprar, le presentamos una serie de productos que nuestros algoritmos encuentran para satisfacer mejor sus necesidades. S\u00f3lo mostramos y trabajamos con empresas certificadas. No se preocupe por ser estafado o ser v\u00edctima de phishing, dado que nosotros somos muy cautelosos en cuanto con las tiendas que trabajamos.",
+            "p6": "El idioma nunca deber\u00eda ser una barrera para tomar una buena decisi\u00f3n de compra. Es por ello que queremos evitar la jerga tecnol\u00f3gica en la compra de productos tecnol\u00f3gicos. Incluso trabajamos agregando m\u00e1s idiomas cada mes, para asegurarle que el idioma nunca sea un obst\u00e1culo para encontrar su pr\u00f3xima compra.",
+            "h3": "Libre de cargos e imparcial",
+            "p7": "Nuestro servicio es libre de cargos",
+            "p8": "\u00bfC\u00f3mo?",
+            "p9": "Los vendedores de los productos que sugerimos nos dan un porcentaje de sus ventas. Esta cantidad NO se agrega a los precios de sus productos. Tampoco aceptamos dinero para promover productos espec\u00edficos. No tenemos ning\u00fan incentivo para venderle un determinado producto, s\u00f3lo para ayudarle a encontrar el que mejor se adapte a sus necesidades. Nosotros lo vemos como nuestro cliente - no como las corporaciones y tiendas que venden sus productos. \u00a1Estamos con usted!",
+            "p10": "Si tiene alguna pregunta, preocupaci\u00f3n, ideas o comentarios en general, por favor no dude en {0}"
+        },
+        "networks": {
+            "h1": "Redes de afiliados",
+            "p1": "Fiasgo est\u00e1 trabajando con redes de afiliados globales y siempre est\u00e1 buscando oportunidades de expansi\u00f3n con m\u00e1s socios. Trabajamos globalmente en todos los mercados, en todos los idiomas en todo momento. Nuestro enfoque son los productos electr\u00f3nicos de consumo, como computadoras, televisores, lavaplatos, tel\u00e9fonos m\u00f3viles, etc. Estamos trabajando para expandir nuestros mercados y nuestra variedad de productos tan r\u00e1pido como nuestro desarrollo lo permita.",
+            "p2": "El tr\u00e1fico al sitio web de Fiasgo es generado a trav\u00e9s de tr\u00e1fico directo, anuncios y boletines informativos. Optimizamos nuestro SEO diariamente para que coincida con todos los mercados activos y todas las categor\u00edas de productos activos.",
+            "p3": "Actualmente operamos en Escandinavia; sin embargo, siempre estamos buscando socios en mercado nuevos y establecidos.",
+            "p4": "Para ponerse en contacto con nosotros, por favor {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Cont\u00e1ctenos aqu\u00ed",
+        "seemoredetails": "Vea m\u00e1s detalles aqu\u00ed",
+        "readmore": "Leer m\u00e1s"
+    },
+    "locale": {
+        "jp": "Japon\u00e9s"
+    }
+}

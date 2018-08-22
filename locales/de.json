@@ -1,0 +1,183 @@
+{
+    "menu": {
+        "settings": "Einstellunge",
+        "buyers": "K\u00e4ufer",
+        "affiliates": "Partnerprogramm",
+        "networks": "Netzwerke",
+        "contact": "Kontakt"
+    },
+    "country": {
+        "mx": "Mexiko",
+        "ca": "Kanada",
+        "us": "USA",
+        "au": "Australien",
+        "de": "Deutschland",
+        "in": "Indien",
+        "za": "S\u00fcdafrika",
+        "bd": "Bangladesch",
+        "jp": "Japan",
+        "pt": "Portugal",
+        "ru": "Russland",
+        "ae": "Vereinigte Arabische Emirate",
+        "kr": "Korea",
+        "it": "Italien",
+        "nl": "Niederlande",
+        "se": "Schweden",
+        "no": "Norwegen",
+        "dk": "D\u00e4nemark",
+        "sr": "Serbien",
+        "ph": "Philippinen",
+        "ua": "Ukraine",
+        "pl": "Poland",
+        "gr": "Griechenland",
+        "gb": "Gro\u00dfbritannien",
+        "cn": "China",
+        "es": "China",
+        "fr": "Spanien"
+    },
+    "error": {
+        "nomatch": "Keine \u00dcbereinstimmungen!"
+    },
+    "settings": {
+        "country": "Land",
+        "currency": "W\u00e4hrung"
+    },
+    "subscription": {
+        "input": "E-Mail",
+        "submit": "Einreichen"
+    },
+    "page": {
+        "questions": {
+            "h1": "Fragen"
+        }
+    },
+    "nps": {
+        "feedback": {
+            "notext": "Nein Danke",
+            "button": "Feedback abschicken",
+            "text": "Vielen Dank. M\u00f6chten Sie Ihre Antwort ausarbeiten?",
+            "done": "Danke f\u00fcr Ihre R\u00fcckmeldung!"
+        },
+        "question": {
+            "text": "Wie gut ist Ihrer Meinung nach das Produkt Ihren Bed\u00fcrfnissen angepasst?",
+            "little": "Sehr wenig",
+            "alot": "Sehr viel"
+        }
+    },
+    "productpage": {
+        "buybutton": "Gehe zum Verk\u00e4ufer",
+        "sellers": "Verk\u00e4ufer",
+        "instock": "Auf Lager?",
+        "price": "Preis",
+        "buy": "Kaufen"
+    },
+    "question": {
+        "prioritize": {
+            "title": "Priorisieren",
+            "text": "Wie w\u00fcrden Sie das Folgende priorisieren?",
+            "screensize": "Bildschirmgr\u00f6\u00dfe",
+            "audioquality": "Audio Qualit\u00e4t",
+            "imagequality": "Bildqualit\u00e4t"
+        },
+        "quality": "Qualit\u00e4t",
+        "yes": "Ja",
+        "no": "Nein",
+        "importance": {
+            "title": "Bedeutung",
+            "text": "Was ist dir am wichtigsten?"
+        },
+        "watchingtv": {
+            "title": {
+                "": "Fernsehen",
+                "5hours": "5 Stunden oder weniger",
+                "10hours": "10 Stunden",
+                "20hours": "20 Stunden",
+                "40hours": "40 Stunden",
+                "60hours": "60 Stunden oder mehr"
+            },
+            "text": "Wie viele Stunden Fernsehen sehen Sie pro Woche?"
+        },
+        "smarttv": {
+            "title": "Smart TV",
+            "text": "W\u00fcrdest du einen Smart TV bevorzugen?"
+        },
+        "price": "Preis"
+    },
+    "locales": {
+        "sr": "Serbisch",
+        "ph": "Filipino",
+        "ur": "Ukrainisch",
+        "pl": "Polnische",
+        "gr": "Griechisch",
+        "en": "Englisch",
+        "zh-CN": "Chinesisch (vereinfacht)",
+        "es": "Spanisch",
+        "fr": "Franz\u00f6sisch",
+        "pt-BR": "Portugiesisch",
+        "ru": "Russisch",
+        "ar": "Arabisch",
+        "ko": "Koreanisch",
+        "it": "Italienisch",
+        "nl": "Niederl\u00e4ndisch",
+        "fa": "Persisch",
+        "sv": "Schwedisch",
+        "no": "Norsk",
+        "da": "D\u00e4nisch",
+        "pa": "Panjabi",
+        "hi": "Hindi",
+        "af": "Afrikaans",
+        "bn": "Bengali",
+        "jp": "Japanisch"
+    },
+    "home": {
+        "title": "Vereinfachtes Einkaufen",
+        "subtitle": "Wir haben die Technik perfektioniert",
+        "subtitle2": "damit Sie es nicht m\u00fcssen"
+    },
+    "article": {
+        "contact": {
+            "h1": "Kontakt",
+            "p1": "Wir lieben Feedback und w\u00fcrden Ihre Meinung zu sch\u00e4tzen wissen, ob Sie Fiasgo verwenden, arbeiten, m\u00f6gen oder nicht m\u00f6gen.",
+            "p2": "Wenn Sie ein Verbraucher sind, kontaktieren Sie uns bitte \u00fcber {mail}",
+            "p3": "Wenn Sie ein Unternehmen sind, das Affiliate-Linking hat oder Teil eines Affiliate-Netzwerks ist, kontaktieren Sie uns bitte unter {mail}"
+        },
+        "affiliates": {
+            "h1": "Affilates",
+            "p1": "Fiasgo arbeitet mit Mitgliedsorganisationen aus aller Welt. Es ist unsere Mission, die gr\u00f6\u00dfte Auswahl an Unterhaltungselektronik zu sammeln, um den Kunden zu helfen, indem sie ihren Einkauf glatter machen. Sie k\u00f6nnen mit mehr Vertrauen kaufen und erwarten bessere Ergebnisse f\u00fcr die Produkte, die sie kaufen, da ihre Bed\u00fcrfnisse wurden abgeschirmt und mit technischen Spezifikationen, was sie suchen, um zu kaufen.",
+            "p2": "In K\u00fcrze: Wir bieten ein Ma\u00df an Kundenservice und verstehen, dass E-Commerce hat die Kunden aus, im Vergleich zu Ziegel und M\u00f6rtel speichert.",
+            "p3": "Wir bringen Kundenservice in E-Commerce in einer Weise, die man sonst nicht gesehen hat. Durch das Verst\u00e4ndnis der Bed\u00fcrfnisse des Verbrauchers k\u00f6nnen wir den Prozess optimieren und beschleunigen, durch den ein Verbraucher von einem potentiellen K\u00e4ufer zu einem tats\u00e4chlichen Kunden umgewandelt wird. Durch das Know-how und die Beratung durch unsere Plattform wird das Kaufvertrag des Verbrauchers h\u00f6her sein, was zu einer niedrigeren R\u00fccklaufquote und einer h\u00f6heren Kundenzufriedenheit f\u00fchrt.",
+            "p4": "Es ist ein Win-Win-Win, sowohl f\u00fcr den Kunden als auch f\u00fcr dich selbst und f\u00fcr uns.",
+            "h2": "Daten der Affiliate-Netzwerks",
+            "p5": "Wir sind stolz darauf, die aktuellsten Daten zu haben. Was wir nicht von unseren Affiliate-Netzwerken bekommen, sammeln wir von den Einzelh\u00e4ndlern selbst. Um sicherzustellen, dass wir jederzeit die richtigen Daten haben, kriechen wir Webseiten, um die aktuellsten Informationen \u00fcber Produkte, Preise, Bilder etc. zu sichern. Wir machen das schnell, einfach und sicher. Wir kratzen nur Informationen, die wir ben\u00f6tigen, um den tats\u00e4chlichen Verkauf der Produkte zu optimieren.",
+            "p6": "Interessiert an der Zusammenarbeit mit Fiasgo? {0}."
+        },
+        "buyers": {
+            "h1": "Vereinfachtes Einkaufen",
+            "p1": "Es wird gesagt, dass, um wirklich eine F\u00e4higkeit zu beherrschen, m\u00fcssen Sie 10.000 Stunden damit verbringen, sie zu entwickeln. Wenn du das machst, {0}. Wenn dieses Konzept wahr ist und du wirklich so viel Zeit damit verbringen musst, ein Experte zu werden, m\u00f6chtest du vielleicht dar\u00fcber nachdenken, wie du deine Zeit mehr weise verbringen kannst.",
+            "p1link1": "wirst du unter den Besten",
+            "p2": "Bei Fiasgo bem\u00fchen wir uns, dass Sie keine Zeit verschwenden. Es ist unsere Mission, Vision und Leidenschaft, den Einkauf von Konsumg\u00fctern nicht nur einfacher, sondern auch zug\u00e4nglicher, zuverl\u00e4ssiger und verst\u00e4ndlicher zu machen. Der Kauf eines neuen Fernsehers, Computers oder anderer Ger\u00e4te kann stundenlange Forschung erfordern, nur um die grundlegenden Funktionen zu verstehen, die in technischen Begriffen behandelt werden, die f\u00fcr Normalsterbliche nicht geeignet sind, sie vollst\u00e4ndig zu erfassen.",
+            "p3": "Warum also verbringen Sie Stunden in der Forschung mit verwirrenden High-Tech-Begriffe und widerspr\u00fcchliche oder sogar irref\u00fchrende Ratschl\u00e4ge in einem hoffnungslosen Versuch, die beste Entscheidung zu treffen, was zu kaufen, wenn es einen besseren Weg gibt?",
+            "p4": "Lassen Sie uns tun, um f\u00fcr Sie zu erforschen.",
+            "h2": "Tech ohne den tech Jargon",
+            "p5": "Wir haben eine Plattform geschaffen, die hardcore tech versierte Begriffe und Anforderungen aus dem Prozess der Suche nach dem Produkt, das Ihren spezifischen Bed\u00fcrfnissen, Anforderungen und Budget entspricht, eliminiert. Wir verwenden Laien, um Ihre Bed\u00fcrfnisse zu verstehen und diese in hochspezifische Anforderungen zu \u00fcbersetzen, also musst du nicht. Basierend auf Ihren Anforderungen f\u00fcr das, was Sie suchen, kaufen wir Ihnen eine Handvoll von Produkten, die unsere Algorithmen finden, um am besten Ihren Bed\u00fcrfnissen zu entsprechen. Wir sehen und arbeiten nur mit Firmen, die zertifiziert sind. Machen Sie sich keine Sorgen, dass Sie betrogen oder phished, da wir sehr vorsichtig sind, was Einzelh\u00e4ndler verwendet werden.",
+            "p6": "Die Sprache sollte niemals ein Hindernis f\u00fcr die richtige Kaufentscheidung sein. Aus diesem Grund wollen wir das Tech-Shopping ohne den Technischen Jargon nutzen. Wir arbeiten sogar daran, jeden Monat mehr Sprachen hinzuzuf\u00fcgen, um sicherzustellen, dass die Sprache niemals ein Hindernis f\u00fcr die Suche nach Ihrem n\u00e4chsten Kauf ist.",
+            "h3": "Kostenlos und unvoreingenommen",
+            "p7": "Unser Service ist kostenlos!",
+            "p8": "Wie?",
+            "p9": "Die Einzelh\u00e4ndler der Produkte, die wir vorschlagen, geben uns einen Prozentsatz von ihren Verk\u00e4ufen. Dieser Betrag wird NICHT zu Ihren Produktpreisen hinzugef\u00fcgt. Weder nehmen wir auch Geld an, um bestimmte Produkte zu f\u00f6rdern. Wir haben keinen Anreiz, Ihnen ein bestimmtes Produkt zu verkaufen, nur um Ihnen zu helfen, das zu finden, was Ihren Bed\u00fcrfnissen am besten entspricht. Wir sehen uns, unser Benutzer, als unser Kunde - nicht die Korporationen und Einzelh\u00e4ndler, die die Produkte verkaufen. Wir haben den R\u00fccken!",
+            "p10": "Wenn Sie Fragen, Anliegen, Ideen oder allgemeine R\u00fcckmeldungen haben, z\u00f6gern Sie bitte nicht, {0}"
+        },
+        "networks": {
+            "h1": "Affiliate Netzwerke",
+            "p1": "Fiasgo arbeitet mit globalen Affiliate-Netzwerken und ist immer auf der Suche nach Expansionsm\u00f6glichkeiten mit mehr Partnern. Wir arbeiten weltweit in allen M\u00e4rkten, in allen Sprachen zu jeder Zeit. Unser Fokus liegt auf elektronischen Verbrauchsg\u00fctern wie Computern, Fernsehger\u00e4ten, Geschirrsp\u00fclern, Mobiltelefonen und so weiter. Wir arbeiten daran, unsere M\u00e4rkte und unser Sortiment so schnell wie m\u00f6glich zu erweitern.",
+            "p2": "Der Verkehr wird auf der Fiasgo-Website durch Direkt- und Markenbekanntheitsanzeigen und Newsletter generiert. Wir optimieren unsere SEO t\u00e4glich auf alle aktiven M\u00e4rkte und alle aktiven Produktkategorie",
+            "p3": "Wir sind derzeit in Skandinavien t\u00e4tig, sind aber immer auf der Suche nach mehr Partnern in beiden etablierten M\u00e4rkten und neuen.",
+            "p4": "Um mit uns in Kontakt zu treten, bitte {0}"
+        }
+    },
+    "actions": {
+        "contactus": "Kontaktieren Sie uns unter",
+        "seemoredetails": "Hier finden Sie weitere Informationen",
+        "readmore": "Weiterlesen"
+    }
+}

@@ -1,0 +1,14 @@
+.slideDown-enter-active, .slideDown-leave-active {
+  transition: margin-top .3s
+}
+.slideDown-enter, .slideDown-leave-to /* .fade-leave-active in <2.1.8 */ {
+  margin-top: -80px;
+}
+
+.slideLeft-enter-active, .slideLeft-leave-active {
+  //-webkit-transition: all .4s;
+  //-webkit-transition-delay: .1s;
+}
+.slideLeft-enter, .slideLeft-leave-to /* .fade-leave-active in <2.1.8 */ {
+  margin-left: -270px;
+}
